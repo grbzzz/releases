@@ -1,0 +1,1503 @@
+Category Name	Item Name	UoM																					
+BEEF	BEEF CURRY	NOS																					
+BEEF	BEEF CURRY-HALF	NOS																					
+BEEF	BEEF DRY FRY	NOS																					
+BEEF	BEEF FRY	NOS																					
+BEEF	BEEF KIZHI	NOS																					
+BEEF	BEEF MASALA	NOS																					
+BEEF	BEEF ROAST	NOS																					
+BEEF	BEEF ROAST-HALF	NOS																					
+BEEF	BEEF STEAKS	NOS																					
+BEEF	MEET ROLL	NOS																					
+BISCUITS	AROVITA BISCUITS	NOS																					
+BISCUITS	ARRO ROOT 300 GM	NOS																					
+BISCUITS	ARROWROOT	NOS																					
+BISCUITS	ARROWROOT 4 NOS	NOS																					
+BISCUITS	ARROWROOT RS 30	NOS																					
+BISCUITS	ARROWROOT RS 35	NOS																					
+BISCUITS	ARROWROOT RS-25	NOS																					
+BISCUITS	ARROWROOT RS-50	NOS																					
+BISCUITS	ATTA BIX RS 40	NOS																					
+BISCUITS	BISCUIT ALWIN RS 5	NOS																					
+BISCUITS	BISCUITS 20-20 RS. 25	NOS																					
+BISCUITS	BISCUITS 20-20 RS. 30	NOS																					
+BISCUITS	BISCUITS 50 50 RS 30 1	NOS																					
+BISCUITS	BISCUITS 50 50 RS 30 2	NOS																					
+BISCUITS	BISCUT 50-50 RS 35	NOS																					
+BISCUITS	BISCUTE 50-50 CHASKA MASKA MRP 30	NOS																					
+BISCUITS	BOURBON RS 40	NOS																					
+BISCUITS	BRITANIA NUTRI CHOICE @50	NOS																					
+BISCUITS	BRITANIA 50-50 @30	NOS																					
+BISCUITS	BRITANIA 50-50 MRP 30	NOS																					
+BISCUITS	BRITANIA TREAT MRP 30	NOS																					
+BISCUITS	BRITANNIA MILK BIKIES RS 30	NOS																					
+BISCUITS	BROWNIE CAKE RS 20	NOS																					
+BISCUITS	COFFEE JOY	NOS																					
+BISCUITS	COFFEJOY MRP 25	NOS																					
+BISCUITS	CRACKER RS 50	NOS																					
+BISCUITS	DAILEE MANGO MRP 40	NOS																					
+BISCUITS	DARK FANTACY	NOS																					
+BISCUITS	DARK FANTASY BOURBON	NOS																					
+BISCUITS	DARK TREATS ECLAIRS RS. 150	NOS																					
+BISCUITS	FAB BOURBON	NOS																					
+BISCUITS	FAB BOURBON SMALL	NOS																					
+BISCUITS	GOOD DAY 20	NOS																					
+BISCUITS	GOOD DAY 40	NOS																					
+BISCUITS	GOOD DAY 50	NOS																					
+BISCUITS	GOOD DAY RS 25	NOS																					
+BISCUITS	HER KIS RS 60	NOS																					
+BISCUITS	HIDE & SEEK RS 30	NOS																					
+BISCUITS	KRACK JACK @ 35	NOS																					
+BISCUITS	KRACK JACK @35	NOS																					
+BISCUITS	LITE CRACKERS	NOS																					
+BISCUITS	MALKIST BISCUIT RS 10	NOS																					
+BISCUITS	MALKIST BISCUT RS 50	NOS																					
+BISCUITS	MALKIST CHOCOLATE MRP 50	NOS																					
+BISCUITS	MARILIGHT RS 10	NOS																					
+BISCUITS	MILK BIKIES MRP 20	NOS																					
+BISCUITS	MILK BIKIES MRP 25	NOS																					
+BISCUITS	MILK BIKIES RS 25	NOS																					
+BISCUITS	MOMS MAGIC	NOS																					
+BISCUITS	MOMS MAGIC BUTTER	NOS																					
+BISCUITS	MOMS MAGIC BUTTER @ 20	NOS																					
+BISCUITS	NABATI MRP 10	NOS																					
+BISCUITS	NABATI RS 20	NOS																					
+BISCUITS	OREO RS 35	NOS																					
+BISCUITS	PARLE - G	NOS																					
+BISCUITS	PARLE - G RS 25	NOS																					
+BISCUITS	PARLE - G@10	NOS																					
+BISCUITS	PARLE 20 - 20	NOS																					
+BISCUITS	PARLE 20 20 RS 30	NOS																					
+BISCUITS	PARLE ARROVITA	NOS																					
+BISCUITS	PARLE G RS 10	NOS																					
+BISCUITS	PARLE HAPPY HAPPY RS 10	NOS																					
+BISCUITS	PARLE HIDE & SEEK	NOS																					
+BISCUITS	PARLE HIDE & SEEK MRP 60	NOS																					
+BISCUITS	PARLE KRACK JACK	NOS																					
+BISCUITS	PARLE KRACK JACK MRP 30	NOS																					
+BISCUITS	PARLE KRACK JACK RS 40	NOS																					
+BISCUITS	PARLE MARI LIGHT	NOS																					
+BISCUITS	PARLE MILANO	NOS																					
+BISCUITS	PARLE RUSK	NOS																					
+BISCUITS	POTATO BISCUITS RS 20	NOS																					
+BISCUITS	POTATO BISCUT MRP 25	NOS																					
+BISCUITS	SF MARILIGHT MRP 20	NOS																					
+BISCUITS	SUNFEAST BOUNCE BISCUIT RS 10	NOS																					
+BISCUITS	SUNFEAST BOURBON RS 20	NOS																					
+BISCUITS	SUNFEAST BOURBON RS 35	NOS																					
+BISCUITS	SUNFEAST BOURBON RS 40	NOS																					
+BISCUITS	SUNFEAST BOURBON RS10	NOS																					
+BISCUITS	SUNFEAST BOURBON RS25	NOS																					
+BISCUITS	SUNFEAST DARK FANTASY BOURBON	NOS																					
+BISCUITS	SUNFEAST MARIELIGHT RS 25	NOS																					
+BISCUITS	SUNFEAST SNACKY	NOS																					
+BISCUITS	SUNFEAST VEDA MARI LIGHT RS 30	NOS																					
+BISCUITS	SUNFEAST VEDA MARI LIGHT RS 40	NOS																					
+BISCUITS	TIGER GLUCOSE RS10	NOS																					
+BISCUITS	TREAT JIM JAM MRP 10	NOS																					
+BISCUITS	UNIBIC BADAM PISTA COOKIES	NOS																					
+BISCUITS	UNIBIC BISCUITS @ 20	NOS																					
+BISCUITS	UNIBIC BISCUITS @10	NOS																					
+BISCUITS	UNIBIC BISCUITS RS 10	NOS																					
+BISCUITS	UNIBIC BISCUITS RS 20	NOS																					
+BISCUITS	UNIBIC BISCUITS RS 25	NOS																					
+BISCUITS	UNIBIC BISCUITS RS 30	NOS																					
+BISCUITS	UNIBIC BISCUITS RS 55	NOS																					
+BISCUITS	UNIBIC BRITANIA CHOCOLOSH MRP 30	NOS																					
+BISCUITS	UNIBIC BUTTER	NOS																					
+BISCUITS	UNIBIC BUTTERLY	NOS																					
+BISCUITS	UNIBIC CASHEW	NOS																					
+BISCUITS	UNIBIC CHCO CHIP MRP 40	NOS																					
+BISCUITS	UNIBIC CHOW NUT COOKIES MRP 50	NOS																					
+BISCUITS	UNIBIC COOKIES RS 30	NOS																					
+BISCUITS	UNIBIC MILK COKKIES @20	NOS																					
+BISCUITS	UNIBIC SNAPPERS RS 20	NOS																					
+BISCUITS	UNIBIC SUGAR FREE RS 60	NOS																					
+BISCUITS	UNIBIC SUGAR FREE RS 70	NOS																					
+BISCUITS	UNIBIC SUNFEAST RS 70	NOS																					
+BISCUITS	UNUIBIC FRUIT & NUT MRP 50	NOS																					
+BISCUITS	YARL BISCUITS RS.40	NOS																					
+BISCUITS	ZPARLE 20-20 RS 20	NOS																					
+BREAD	ASSORTED BREADS	NOS																					
+BREAD	BREAD FRY	NOS																					
+BREAD	BREAD OMELETE	NOS																					
+BREAD	BREAD ROAST MRP 20	NOS																					
+BREAD	BREAD SLICE	NOS																					
+BREAD	BROWN BREAD 400 GM	NOS																					
+BREAD	BUTTER BRED 400 GM	NOS																					
+BREAD	CALZONE	NOS																					
+BREAD	CHEESE SANWICH	NOS																					
+BREAD	DILKHUSH PIECE	NOS																					
+BREAD	DILKHUSH WHOLE	NOS																					
+BREAD	WHEAT PARATHA	NOS																					
+BREAD	WHITE BREAD 400 GM	NOS																					
+BREAKFAST	APPAM	NOS																					
+BREAKFAST	BHAJI CURRY	NOS																					
+BREAKFAST	BREAD OMLETTTE	NOS																					
+BREAKFAST	CEREAL WITH MILK	NOS																					
+BREAKFAST	CHAMBA PUTTU	NOS																					
+BREAKFAST	DOSA	NOS																					
+BREAKFAST	GHEE ROAST	NOS																					
+BREAKFAST	IDIYAPPAM	NOS																					
+BREAKFAST	IDLY 1 NO	NOS																					
+BREAKFAST	KALLAPPAM	NOS																					
+BREAKFAST	MASALA DOSA	NOS																					
+BREAKFAST	PLAIN DOSA	NOS																					
+BREAKFAST	POORI 1 NO	NOS																					
+BREAKFAST	POORI BHAJI	NOS																					
+BREAKFAST	PURI	NOS																					
+BREAKFAST	PUTTU	NOS																					
+BREAKFAST	RICE DOSA Nos	NOS																					
+BREAKFAST	TOAST BUTTER JAM	NOS																					
+BREAKFAST	UPMA	NOS																					
+BREAKFAST	WHEAT DOSA	NOS																					
+BREAKFAST	Z IDIYAPPAM 1 NO	NOS																					
+BREAKFAST	ZAPPAM	NOS																					
+BREAKFAST	ZIDLY SET	NOS																					
+BREAKFAST	ZKALLAPPAM	NOS																					
+BUN	BUN PACKET	NOS																					
+BUN	CREAM BUN BALL	NOS																					
+BUN	CREAM BUN ROLL	NOS																					
+BUN	SMALL BUN MRP 10	NOS																					
+BUN	STAFF CREAM BUN	NOS																					
+CAKE	ALPHONSA PLUM CAKE	NOS																					
+CAKE	ALPONSA CARROT CAKE	NOS																					
+CAKE	APPLE CAKE @45	NOS																					
+CAKE	BANANA CAKE SLICE 20	NOS																					
+CAKE	BELGIUM CAKE 800 GM	NOS																					
+CAKE	BIRTHDAY CAKE 800GM	NOS																					
+CAKE	BLACK FOREST RS 750	NOS																					
+CAKE	BREAD FAMILY PACK 500 GM	NOS																					
+CAKE	BUTTER SCOTCH CAKE 800 GM	NOS																					
+CAKE	CAKE WHITE FOREST	NOS																					
+CAKE	CARROT CAKE 20	NOS																					
+CAKE	CARROT CAKE 800 GM	NOS																					
+CAKE	CREAM OF COCONUT JAMROLL@25	NOS																					
+CAKE	DAIRY HOME ASSORTMENTS 175 GM	NOS																					
+CAKE	DATES & CARROT CAKE 800GM	NOS																					
+CAKE	DUCKER CAKE	NOS																					
+CAKE	FRUIT & NUT CAKE RS 20	NOS																					
+CAKE	GHEE CAKE 800GM	NOS																					
+CAKE	JAM ROLL	NOS																					
+CAKE	KIWI CAKE 800 GM	NOS																					
+CAKE	MANGO CAKE 800 MG	NOS																					
+CAKE	MARBLE CAKE 800GM	NOS																					
+CAKE	MARBLE CAKE PIECE	NOS																					
+CAKE	MILANO CHOCO & HAZELUNT 60 GM	NOS																					
+CAKE	MILANO MIXED BERRIED 75 GM	NOS																					
+CAKE	MUFFIN @15	NOS																					
+CAKE	PINEAPPLE CAKE 1 KG	NOS																					
+CAKE	PINEAPPLE CAKE 800 GMS	NOS																					
+CAKE	PINEAPPLE SLICE CAKE	NOS																					
+CAKE	PLUM CAKE 1 KG	NOS																					
+CAKE	PLUM SLICE CAKE	NOS																					
+CAKE	PLUM SLICE CAKE @ 25	NOS																					
+CAKE	STRAWBERRY CAKE 800GM	NOS																					
+CAKE	SUPREME CAKE EUROPEAN DELIGHT RS 180	NOS																					
+CAKE	SUPREME CAKE PLUM SUPREME RS 155	NOS																					
+CAKE	SUPREME CHERRY BERRY PLUM CAKE 650 GM	NOS																					
+CAKE	SUPREME GIFT IT 1 KG	NOS																					
+CAKE	SUPREME LINGS CAKE 350 GM	NOS																					
+CAKE	SUPREME PLUM 350 GM	NOS																					
+CAKE	SUPREME RICH MILK 250GM	NOS																					
+CAKE	SUPREME SWISS CHOCOLATE 250GM	NOS																					
+CAKE	SUPREME YUMMY BLACK CURRENT RS	NOS																					
+CAKE	SUPREME YUMMY ORANGE RS 99	NOS																					
+CAKE	TEA CAKE 800 GM	NOS																					
+CAKE	VANILA VANCHO CAKE 800 GM	NOS																					
+CAKE	YUMMY YUM - 175 GM RS 95	NOS																					
+CAKES	CARROT CAKE@20	NOS																					
+CAKES	CHOCOLATE BROWNEY@45	NOS																					
+CAKES	DAITES AND CARROT@30	NOS																					
+CAKES	DATES & CARROT SLICE CAKE	NOS																					
+CAKES	GHEE CAKE @20	NOS																					
+CAKES	IRIS CAKE@30	NOS																					
+CAKES	LINZER CAKES SLICE 30	NOS																					
+CAKES	ORNAGE SLICE CAKE	NOS																					
+CAKES	PINAPLE CAKE 500GM	NOS																					
+CAKES	PLUM CAKE 400GM	NOS																					
+CAKES	SUPREME CAKE CHERRY BERRY RS 145	NOS																					
+CAKES	SUPREME CAKE FRUIT & NUT RS 155	NOS																					
+CAKES	SUPREME CAKE RICH MILK RS 155	NOS																					
+CAKES	VANILA SLICE CAKE	NOS																					
+CANDY	BLACK SESAME CANDY RS65	NOS																					
+CANDY	CANDY (DIFFERENT FLAVOUR)	NOS																					
+CANDY	CANDY PEANUT RS 5	NOS																					
+CANDY	DELINUT GOLDEN BROWN	NOS																					
+CANDY	DELINUTS SIMPLY SALTY	NOS																					
+CANDY	ELADHI MRP 1	NOS																					
+CANDY	MIXTURE CANDY RS 65	NOS																					
+CANDY	PEANUT CANDY 120 GM	NOS																					
+CANDY	PEANUT CANDY 80GM	NOS																					
+CANDY	PEANUT CANDY RS 55	NOS																					
+CANDY	PEANUT CANDY RS 65	NOS																					
+CANDY	POLO JAR MRP 2	NOS																					
+CANDY	SESAME BALL RS 45	NOS																					
+CANDY	SUNFEAST MARIELIGHT MRP 20	NOS																					
+CANDY	WHITE SESAME CANDY RS 65	NOS																					
+CASHEW NUTS	CASHEW NUT 200GM	NOS																					
+CASHEW NUTS	CASHEW NUT 250	NOS																					
+CASHEW NUTS	CASHEW NUTS PEPPER	NOS																					
+CASHEW NUTS	DELENUT CASHEW RS 145	NOS																					
+CASHEW NUTS	DELINUT CASHEW PLAIN RS. 799	NOS																					
+CASHEW NUTS	DELINUT CASHEW ROASTED RS 860	NOS																					
+CASHEW NUTS	PISTA 250GM	NOS																					
+CHICKEN	CHICKEN KUMARAKAM	NOS																					
+CHICKEN	ACHAYAN KOZHI CURRY@155	NOS																					
+CHICKEN	AMMACHI KOZHI CURRY@160	NOS																					
+CHICKEN	AMMACHI KOZHI ROAST@165	NOS																					
+CHICKEN	ANDRA CHICKEN	NOS																					
+CHICKEN	BUTTER CHICKEN	NOS																					
+CHICKEN	BUTTER CHICKEN MASALA	NOS																					
+CHICKEN	CAESAR SALAD WITH GRILLED CHICKEN	NOS																					
+CHICKEN	CARRIBEAN CHICKEN	NOS																					
+CHICKEN	CHCIKEN MALABARI	NOS																					
+CHICKEN	CHICKEN 65	NOS																					
+CHICKEN	CHICKEN CHETTINADU	NOS																					
+CHICKEN	CHICKEN CHUKA	NOS																					
+CHICKEN	CHICKEN CURRY	NOS																					
+CHICKEN	CHICKEN CURRY-HALF	NOS																					
+CHICKEN	CHICKEN FRY	NOS																					
+CHICKEN	CHICKEN GAI TOD	NOS																					
+CHICKEN	CHICKEN KONDATTOM	NOS																					
+CHICKEN	CHICKEN MALLI PERALAN	NOS																					
+CHICKEN	CHICKEN MANCHURIAN	NOS																					
+CHICKEN	CHICKEN MAPPAS	NOS																					
+CHICKEN	CHICKEN MEZHAKKUPERUTTI	NOS																					
+CHICKEN	CHICKEN PERATTU	NOS																					
+CHICKEN	CHICKEN POLLICHATHU	NOS																					
+CHICKEN	CHICKEN PURATTU	NOS																					
+CHICKEN	CHICKEN ROAST	NOS																					
+CHICKEN	CHICKEN ROLL	NOS																					
+CHICKEN	CHICKEN SATAE	NOS																					
+CHICKEN	CHICKEN SPRING ROLL	NOS																					
+CHICKEN	CHICKEN STEW	NOS																					
+CHICKEN	CHICKEN TIKKA	NOS																					
+CHICKEN	CHICKEN TIKKA MASALA	NOS																					
+CHICKEN	CHICKEN TRAVANKOR	NOS																					
+CHICKEN	CHICKEN VARATHARACHATHU	NOS																					
+CHICKEN	CHICKEN WINGLETS	NOS																					
+CHICKEN	CHILLY CHICKEN	NOS																					
+CHICKEN	CHILLY CHICKEN-HALF	NOS																					
+CHICKEN	CRUMB FRIED CHICKEN	NOS																					
+CHICKEN	GRILLED CHICKEN	NOS																					
+CHICKEN	GRILLED CHICKEN BLD	NOS																					
+CHICKEN	HYDERABADI CHICKEN	NOS																					
+CHICKEN	KADAI CHICKEN	NOS																					
+CHICKEN	KOZHI KURUMULAK	NOS																					
+CHICKEN	MASALA CHICKEN	NOS																					
+CHICKEN	PEPPER CHICKEN	NOS																					
+CHICKEN	PEPPER CHICKEN DRY	NOS																					
+CHICKEN	PEPPER CHICKEN MASALA	NOS																					
+CHICKEN	SCHEWAN CHICKEN	NOS																					
+CHICKEN	ZZKERALA CHILLY CHICKEN.	NOS																					
+CHOCOLATES	BAR ONE MRP 10	NOS																					
+CHOCOLATES	BAR ONE NESTLE RS 20	NOS																					
+CHOCOLATES	BAR ONE NESTLE RS 5	NOS																					
+CHOCOLATES	BOUNTY	NOS																					
+CHOCOLATES	BOUNTY MRP 25	NOS																					
+CHOCOLATES	BOUNTY RS 30	NOS																					
+CHOCOLATES	BOUNTY RS 60	NOS																					
+CHOCOLATES	BOUNTY RS 70	NOS																					
+CHOCOLATES	BOUNTY RS 99	NOS																					
+CHOCOLATES	CHOCOLATE 1 PIECE MRP 1	NOS																					
+CHOCOLATES	DAILY NUT SALTED ALMOND 200GM	NOS																					
+CHOCOLATES	DAIRY HOME ASSORTMENTS	NOS																					
+CHOCOLATES	DAIRY HOME CHOCLATE RS 290	NOS																					
+CHOCOLATES	DAIRY HOME MELANI	NOS																					
+CHOCOLATES	DAIRY HOME NUTS IN	NOS																					
+CHOCOLATES	DAIRY HOME TRUS ME	NOS																					
+CHOCOLATES	DOLEY CHOCLATE RS 180	NOS																					
+CHOCOLATES	DOLEY CHOCLATE RS 200	NOS																					
+CHOCOLATES	DOLEY CHOCLATE RS 220	NOS																					
+CHOCOLATES	DOLEY CHOCLATE RS 250	NOS																					
+CHOCOLATES	DOLEY CHOCLATE RS.130	NOS																					
+CHOCOLATES	DOLEY CHOCLATE RS.300	NOS																					
+CHOCOLATES	GALAXY RS 20	NOS																					
+CHOCOLATES	GALAXY CRISPY	NOS																					
+CHOCOLATES	GALAXY DARK RS 50	NOS																					
+CHOCOLATES	GALAXY FRUIT & NUT	NOS																					
+CHOCOLATES	GALAXY RS 10	NOS																					
+CHOCOLATES	GALAXY RS 40	NOS																					
+CHOCOLATES	GALAXY RS 50	NOS																					
+CHOCOLATES	GALAXY RS 80	NOS																					
+CHOCOLATES	GALAXY RS 90	NOS																					
+CHOCOLATES	GALAXY SM (30 G)	NOS																					
+CHOCOLATES	GALAXY SM MRP 20	NOS																					
+CHOCOLATES	HER CHOCO TUBE RS 20	NOS																					
+CHOCOLATES	HER ECOTIC RS 160	NOS																					
+CHOCOLATES	HER EXOTIC RS 150	NOS																					
+CHOCOLATES	HER EXOTIC RS 150	NOS																					
+CHOCOLATES	HER EXOTIC RS 55	NOS																					
+CHOCOLATES	HER KIS RS 145	NOS																					
+CHOCOLATES	HER KISS RS 140	NOS																					
+CHOCOLATES	HER KISS RS 160	NOS																					
+CHOCOLATES	HER KISS RS 50	NOS																					
+CHOCOLATES	HER KISS RS 55	NOS																					
+CHOCOLATES	KIKAT FAMILY PACK MRP 60	NOS																					
+CHOCOLATES	KITKAT @10	NOS																					
+CHOCOLATES	KITKAT DESSERT RS 170	NOS																					
+CHOCOLATES	KITKAT MRP 15	NOS																					
+CHOCOLATES	KITKAT MRP 25	NOS																					
+CHOCOLATES	KITKAT RS 30	NOS																					
+CHOCOLATES	KITKAT RS 45	NOS																					
+CHOCOLATES	KITKAT RS 60	NOS																					
+CHOCOLATES	KITKAT RS 65	NOS																					
+CHOCOLATES	KITKAT@20	NOS																					
+CHOCOLATES	KITKAT@5	NOS																					
+CHOCOLATES	KOPIKO	NOS																					
+CHOCOLATES	MAGIC CHOCLTAE RS 180	NOS																					
+CHOCOLATES	MARS	NOS																					
+CHOCOLATES	MARS RS 60	NOS																					
+CHOCOLATES	MARS RS 70	NOS																					
+CHOCOLATES	MEDLEY GIFT BOX RS 300	NOS																					
+CHOCOLATES	MELANIA 420 GM	NOS																					
+CHOCOLATES	MELODY CHOCLTAE RS 180	NOS																					
+CHOCOLATES	MELODY CHOCLTATE RS 200	NOS																					
+CHOCOLATES	MILKY BAR	NOS																					
+CHOCOLATES	MILKY BAR (25 G)	NOS																					
+CHOCOLATES	MILKY BAR MOOSA MRP 10	NOS																					
+CHOCOLATES	MILKY BAR RS 5	NOS																					
+CHOCOLATES	MILKYBAR MOULD RS.20	NOS																					
+CHOCOLATES	MILKYBAR RS.10	NOS																					
+CHOCOLATES	MUNCH MAHA CRUNCH	NOS																					
+CHOCOLATES	MUNCH NUT RS 10	NOS																					
+CHOCOLATES	MUNCH NUTS MRP 20	NOS																					
+CHOCOLATES	MUNCH RS 25	NOS																					
+CHOCOLATES	MUNCH RS 5	NOS																					
+CHOCOLATES	NESTLE CLASSIC MRP 20	NOS																					
+CHOCOLATES	NEXTAR BROWINES RS 10	NOS																					
+CHOCOLATES	NUTS IN 300 GM	NOS																					
+CHOCOLATES	POLO @10	NOS																					
+CHOCOLATES	POLO @5	NOS																					
+CHOCOLATES	POLO RS 2	NOS																					
+CHOCOLATES	SNICKERS CASHEW	NOS																					
+CHOCOLATES	SNICKERS @10	NOS																					
+CHOCOLATES	SNICKERS @40	NOS																					
+CHOCOLATES	SNICKERS GIFT PACK RS 249	NOS																					
+CHOCOLATES	SNICKERS MRP 30	NOS																					
+CHOCOLATES	SNICKERS RS 20	NOS																					
+CHOCOLATES	SNICKERS RS 25	NOS																					
+CHOCOLATES	SNICKERS RS 30	NOS																					
+CHOCOLATES	SNICKERS RS 35	NOS																					
+CHOCOLATES	SNICKERS RS 45	NOS																					
+CHOCOLATES	SNICKERS RS 50	NOS																					
+CHOCOLATES	SNICKERS RS 60	NOS																					
+CHOCOLATES	SUPREME SESME CANDY WHITE	NOS																					
+CHOCOLATES	SWEET ECLAIRS RS 120	NOS																					
+CHOCOLATES	TRUS ME 250GM	NOS																					
+CHOCOLATES	TWIX RS.60	NOS																					
+CHOCOLATES	TWIX RS 30	NOS																					
+CHOCOLATES	TWIX RS 70	NOS																					
+CHOCOLATES	TWIX SB MRP 50	NOS																					
+CHOCOLATES	ZMUNCH NUTS MRP 10	NOS																					
+COLD BEVERAGES	AINES GRAPE JUICE RS50	NOS																					
+COLD BEVERAGES	AINES GRAPE JUICE RS60	NOS																					
+COLD BEVERAGES	AINES MANGO JUICE	NOS																					
+COLD BEVERAGES	AINES MANGO JUICE RS 60	NOS																					
+COLD BEVERAGES	AINES PASSION FRUIT	NOS																					
+COLD BEVERAGES	AINES PASSION FRUIT RS60	NOS																					
+COLD BEVERAGES	BADAM DRINK	NOS																					
+COLD BEVERAGES	BANANA MILK SHAKE	NOS																					
+COLD BEVERAGES	BUTTER MILK	NOS																					
+COLD BEVERAGES	COLD COFFEE	NOS																					
+COLD BEVERAGES	FRESH CARROT JUICE	NOS																					
+COLD BEVERAGES	FRESH JUICE APPLE	NOS																					
+COLD BEVERAGES	FRESH JUICE ORANGE	NOS																					
+COLD BEVERAGES	FRESH JUICE PINEAPPLE	NOS																					
+COLD BEVERAGES	FRESH JUICE POMOGRANATE	NOS																					
+COLD BEVERAGES	FRESH JUICE WATER MELON	NOS																					
+COLD BEVERAGES	GRAPE JUICE	NOS																					
+COLD BEVERAGES	LIME JUICE	NOS																					
+COLD BEVERAGES	LIME SODA	NOS																					
+COLD BEVERAGES	MINERAL WATER 1 LTR RS 20	NOS																					
+COLD BEVERAGES	MINERAL WATER 500ML	NOS																					
+COLD BEVERAGES	MINT / GINGER LIME JUICE	NOS																					
+COLD BEVERAGES	MIX FRUIT JUICE	NOS																					
+COLD BEVERAGES	PASSIONFRUIT DRINK	NOS																					
+COLD BEVERAGES	WATERMELON CRUSH	NOS																					
+COLD BEVERAGES	ZZMINERAL WATER	NOS																					
+COMBO MEALS	COMBO PER HEAD 710	NOS																					
+COMBO MEALS	COMBO PER HEAD 1200	NOS																					
+COMBO MEALS	COMBO PER HEAD 125	NOS																					
+COMBO MEALS	COMBO PER HEAD 172	NOS																					
+COMBO MEALS	COMBO PER HEAD 180	NOS																					
+COMBO MEALS	COMBO PER HEAD 182	NOS																					
+COMBO MEALS	COMBO PER HEAD 265	NOS																					
+COMBO MEALS	COMBO PER HEAD 280	NOS																					
+COMBO MEALS	COMBO PER HEAD 290	NOS																					
+COMBO MEALS	COMBO PER HEAD 320	NOS																					
+COMBO MEALS	COMBO PER HEAD 335	NOS																					
+COMBO MEALS	COMBO PER HEAD 365	NOS																					
+COMBO MEALS	COMBO PER HEAD 380	NOS																					
+COMBO MEALS	COMBO PER HEAD 385	NOS																					
+COMBO MEALS	COMBO PER HEAD 40	NOS																					
+COMBO MEALS	COMBO PER HEAD 420	NOS																					
+COMBO MEALS	COMBO PER HEAD 425	NOS																					
+COMBO MEALS	COMBO PER HEAD 450	NOS																					
+COMBO MEALS	COMBO PER HEAD 465	NOS																					
+COMBO MEALS	COMBO PER HEAD 470	NOS																					
+COMBO MEALS	COMBO PER HEAD 480	NOS																					
+COMBO MEALS	COMBO PER HEAD 535	NOS																					
+COMBO MEALS	COMBO PER HEAD 550	NOS																					
+COMBO MEALS	COMBO PER HEAD 630	NOS																					
+COMBO MEALS	COMBO PER HEAD 700	NOS																					
+COMBO MEALS	COMBO PER HEAD 710	NOS																					
+COMBO MEALS	COMBO PER HEAD 780	NOS																					
+COMBO MEALS	COMBO PER HEAD 825	NOS																					
+COMBO MEALS	COMBO PER HEAD 950	NOS																					
+COMBO MEALS	COMBO PER HEAD RS 172	NOS																					
+COMBO MEALS	COMBO PER HEAD RS 335	NOS																					
+COMBO MEALS	COMBO PER PAX 350	NOS																					
+COMBO MEALS	COMBO PER-HEAD 182	NOS																					
+COMBO MEALS	ELLUM KAPPAYUM	NOS																					
+COMBO MEALS	FRIED RICE + CHILLY CHICKEN COMBO	NOS																					
+COMBO MEALS	GHEE RICE WITH CHICKEN ROAST	NOS																					
+COMBO MEALS	KAPPA WITH FISH CURRY COMBO	NOS																					
+COMBO MEALS	KIZHI PARATHA BEEF	NOS																					
+COMBO MEALS	KIZHI PARATHA CHICKEN	NOS																					
+COMBO MEALS	KOLHAPURI CHICKENN	NOS																					
+COMBO MEALS	KOTHU CHAPPATHY	NOS																					
+COMBO MEALS	KOTHU PARATHA	NOS																					
+COMBO MEALS	MIX GRILL NON VEG	NOS																					
+COMBO MEALS	POTHICHOR	NOS																					
+COMBO MEALS	PUTTUM BEEFUM	NOS																					
+COMBO MEALS	PUTTUM CHICKENUM	NOS																					
+COMBO MEALS	ZZKAPPA BIRIYANI	NOS																					
+COOKIES	ASSORTED COOKIES 100G	NOS																					
+COOKIES	ASSORTED COOKIES 150G	NOS																					
+COOKIES	CASHEW CRUMBS 200GM	NOS																					
+COOKIES	CASHEW CRUMBS COOKIES 200 GM	NOS																					
+COOKIES	COOKIES PAIR	NOS																					
+COOKIES	FRUITY FUN 200GM	NOS																					
+COOKIES	FRUITY FUN COOKIES 200 GM	NOS																					
+COOKIES	MASALA MANIA 200GM	NOS																					
+COOKIES	NANKATT COOKIES 200 GM	NOS																					
+COOKIES	UNIBIC SUGAR FREE RS 50	NOS																					
+DESSERTS	ALMOND FERNI	NOS																					
+DESSERTS	APPLE PUDDING	NOS																					
+DESSERTS	BREAD PUDDING	NOS																					
+DESSERTS	CAKE 800	NOS																					
+DESSERTS	CANBERRY PUDDING	NOS																					
+DESSERTS	CARAMEL PUDDING	NOS																					
+DESSERTS	CARROT HALWA	NOS																					
+DESSERTS	CARROT PUDDING	NOS																					
+DESSERTS	CASHEW PUDDING	NOS																					
+DESSERTS	CHOCOLATE PUDDING	NOS																					
+DESSERTS	COCO PUDDING	NOS																					
+DESSERTS	COFFEE PUDDING	NOS																					
+DESSERTS	CUT FRUITS	NOS																					
+DESSERTS	FRUIT CUSTARD	NOS																					
+DESSERTS	FRUIT SALAD WITH ICE CREAM	NOS																					
+DESSERTS	GULAB JAMUN	NOS																					
+DESSERTS	JILEBI@15	NOS																					
+DESSERTS	KARI NORMAL	NOS																					
+DESSERTS	KARI SWEET	NOS																					
+DESSERTS	KESARI	NOS																					
+DESSERTS	LADDU	NOS																					
+DESSERTS	MANGO PUDDING	NOS																					
+DESSERTS	MILK SHAKE RS 45	NOS																					
+DESSERTS	MIXED FRUIT PUDDING	NOS																					
+DESSERTS	PAPPAYA PUDDING	NOS																					
+DESSERTS	PAYASAM	NOS																					
+DESSERTS	PAYASAM (ADAPRADHAMAN) 1 LTR	NOS																					
+DESSERTS	PAYASAM (BROKEN WHEAT) 1 LTR	NOS																					
+DESSERTS	PAYASAM (BROKEN WHEAT) HALF LTR	NOS																					
+DESSERTS	PAYASAM PALADA HALF	NOS																					
+DESSERTS	PAYASAM@30	NOS																					
+DESSERTS	PINEAPPLE PAYASAM 500ML	NOS																					
+DESSERTS	PINEAPPLE PUDDING	NOS																					
+DESSERTS	PUDDING	NOS																					
+DESSERTS	RAVA KESARI	NOS																					
+DESSERTS	SHAHI TUKDA	NOS																					
+DESSERTS	STRAWBERRY PUDDING	NOS																					
+DESSERTS	SWEET LASSI	NOS																					
+DESSERTS	TENDER COCO PUDDING	NOS																					
+DESSERTS	TENDER COCO PUDDING 50	NOS																					
+DESSERTS	TENDER COCONUT PUDDING	NOS																					
+DESSERTS	UMALI	NOS																					
+DESSERTS	ZTENDER COCONUT PUDDING	NOS																					
+DIET MENU	DIABETIC AFTER NOON	NOS																					
+DIET MENU	DIABETIC BED TEA	NOS																					
+DIET MENU	DIABETIC BREAK FAST	NOS																					
+DIET MENU	DIABETIC DINNER	NOS																					
+DIET MENU	DIABETIC LUNCH	NOS																					
+DIET MENU	DIABETIC MID MORNING	NOS																					
+DIET MENU	HEPATIC AFTERNOON	NOS																					
+DIET MENU	HEPATIC BED TEA	NOS																					
+DIET MENU	HEPATIC BREAKFAST	NOS																					
+DIET MENU	HEPATIC DINNER	NOS																					
+DIET MENU	HEPATIC LUNCH	NOS																					
+DIET MENU	HEPATIC MIDMORNING	NOS																					
+DIET MENU	HPD AFTER NOON	NOS																					
+DIET MENU	HPD BED TEA	NOS																					
+DIET MENU	HPD BREAK FAST	NOS																					
+DIET MENU	HPD DINNER	NOS																					
+DIET MENU	HPD LUNCH	NOS																					
+DIET MENU	HPD MID MORNING	NOS																					
+DIET MENU	LF LC AFTERNOON	NOS																					
+DIET MENU	LF LC BED TEA	NOS																					
+DIET MENU	LF LC BREAKFAST	NOS																					
+DIET MENU	LF LC DINNER	NOS																					
+DIET MENU	LF LC LUNCH	NOS																					
+DIET MENU	LF LC MID MORNING	NOS																					
+DIET MENU	REGULAR AFTERNOON	NOS																					
+DIET MENU	REGULAR BED TEA	NOS																					
+DIET MENU	REGULAR BREAKFAST	NOS																					
+DIET MENU	REGULAR DINNER	NOS																					
+DIET MENU	REGULAR LUNCH	NOS																					
+DIET MENU	RENALD AFTERNOON	NOS																					
+DIET MENU	RENALD BED TEA	NOS																					
+DIET MENU	RENALD BREAKFAST	NOS																					
+DIET MENU	RENALD DINNER	NOS																					
+DIET MENU	RENALD LUNCH	NOS																					
+DIET MENU	RENALD MIDMONRING	NOS																					
+DIET MENU	SOFTD AFTERNOON	NOS																					
+DIET MENU	SOFTD BED TEA	NOS																					
+DIET MENU	SOFTD BREAKFAST	NOS																					
+DIET MENU	SOFTD DINNER	NOS																					
+DIET MENU	SOFTD LUNCH	NOS																					
+DIET MENU	SOFTD MIDMORNING	NOS																					
+DISPOSABLE ITEMS	ALUMINIUM CONTAINER 250ML	NOS																					
+DISPOSABLE ITEMS	ALUMINIUM CONTAINER 450ML	NOS																					
+DISPOSABLE ITEMS	BUTTER PAPER	NOS																					
+DISPOSABLE ITEMS	CAKE BOX	NOS																					
+DISPOSABLE ITEMS	CARRY BAG CLOTH	NOS																					
+DISPOSABLE ITEMS	DISPOSABLE SPOON WOODEN	NOS																					
+DISPOSABLE ITEMS	PAPER COVER BROWN 14X8	NOS																					
+DISPOSABLE ITEMS	PAPER CUP 150ML	NOS																					
+DISPOSABLE ITEMS	PAPER CUP 210 ML	NOS																					
+DISPOSABLE ITEMS	PAPER CUP 210ML LID	NOS																					
+DISPOSABLE ITEMS	PAPER NAPKIN	NOS																					
+DISPOSABLE ITEMS	PAPER ROLL	NOS																					
+DISPOSABLE ITEMS	PLASTIC 750ML CONTAINER (4CP)	NOS																					
+DISPOSABLE ITEMS	PLASTIC GLASS 300 ML	NOS																					
+DISPOSABLE ITEMS	SNACKS BOX	NOS																					
+DISPOSABLE ITEMS	STIRROR STICK WOODEN	NOS																					
+DISPOSABLE ITEMS	THERMAL PAPER 80MM	NOS																					
+DRY FRUITS	DATES RS 220	NOS																					
+DRY FRUITS	DELI NUTS PEPPY PEPPERS MRP 145	NOS																					
+DRY FRUITS	DELINUT ALMOND RS 330	NOS																					
+DRY FRUITS	DELINUT CASHEW RS 350	NOS																					
+DRY FRUITS	DELINUT DRY ROASTD ALMONDS MRP 130	NOS																					
+DRY FRUITS	DELINUT DRY ROASTED CASHEW SIMPLY SALTY	NOS																					
+DRY FRUITS	DELINUT PEPPER ONION 80 GM	NOS																					
+DRY FRUITS	DELINUTS HEAVENLY HONEY	NOS																					
+DRY FRUITS	DELINUTS SIZZILING CHILLY	NOS																					
+DRY FRUITS	DELINUTS TANGY CHILLY GARLIC	NOS																					
+DRY FRUITS	DELIS CASHEWS ROASTED & SALTED	NOS																					
+DRY FRUITS	NUTTY FRESH	NOS																					
+DRY FRUITS	ROSTAA ALMONDS	NOS																					
+DRY FRUITS	ROSTAA BERRY LICIOUS	NOS																					
+DRY FRUITS	SALTED DELI NUT DRY ROASTED ALMONDS	NOS																					
+DRY FRUITS	SIZZLING CHILLI DELI NUT DRY ROASTED CAS	NOS																					
+DRY NUTS	CASHEW NUT PEPPER	NOS																					
+DRY NUTS	DAILY NUT CASHEW (145)	NOS																					
+DRY NUTS	DELI NUTS	NOS																					
+DUCK	DUCK BOILED EGG	NOS																					
+DUCK	DUCK EGG OMLETTE	NOS																					
+DUCK	DUCK EGG ROAST	NOS																					
+DUCK	DUCK MASALA OMLETTE	NOS																					
+DUCK	DUCK ROAST	NOS																					
+DUCK	DUCK ROAST @165	NOS																					
+DUCK	ZZDUCK EGG ROAST	NOS																					
+EGGS	MASALA OMELETE	NOS																					
+EGGS	BOILED EGG	NOS																					
+EGGS	EGG BHURJI	NOS																					
+EGGS	EGG CURRY	NOS																					
+EGGS	EGG ROAST	NOS																					
+EGGS	EGG SPRING ROLL	NOS																					
+EGGS	EGG WHITE	NOS																					
+EGGS	EGG WHITE OMLETTE	NOS																					
+EGGS	OMLETTE PLAIN	NOS																					
+EGGS	SCRAMBLED EGG	NOS																					
+EGGS	SPANISH OMLETTE	NOS																					
+FEED PRODUCTS	ARROWROOT POWDER	NOS																					
+FEED PRODUCTS	ENSURE DIABETES CARE	NOS																					
+FEED PRODUCTS	HEALTH MIX POWDER	NOS																					
+FEED PRODUCTS	HINEX HP 400GM	NOS																					
+FEED PRODUCTS	HORLICKS PROTEIN POWDER VANILA	NOS																					
+FEED PRODUCTS	NEPRO HP	NOS																					
+FEED PRODUCTS	NEPRO LP	NOS																					
+FEED PRODUCTS	OATS	NOS																					
+FEED PRODUCTS	PORRIDGE	NOS																					
+FEEDS	ALBUZEST 140	NOS																					
+FEEDS	ARROW ROOT 100ML	NOS																					
+FEEDS	ARROW ROOT EGG WHITE 100ML	NOS																					
+FEEDS	BARLEY WATER	NOS																					
+FEEDS	CHICKEN CLEAR SOUP 100ML	NOS																					
+FEEDS	COPEWEL HPC	NOS																					
+FEEDS	CURD 100ML	NOS																					
+FEEDS	ENSSURE PLUS VANILA	NOS																					
+FEEDS	ENSURE DIABETIC VANILA	NOS																					
+FEEDS	FRESUBIN HEPA	NOS																					
+FEEDS	HEALTH MIX	NOS																					
+FEEDS	HEALTHMIX + EGG WHITE	NOS																					
+FEEDS	HINEX	NOS																					
+FEEDS	HORLICKS PROTEIN PLUS	NOS																					
+FEEDS	KANJI + GREEN GRAM 100ML	NOS																					
+FEEDS	KANJI + GREENGRAM + VEGETABLES	NOS																					
+FEEDS	KANJI + VEGETABLES	NOS																					
+FEEDS	KANJI EGG WHITE 1 NOS 100ML	NOS																					
+FEEDS	KANJI EGG WHITE 2 NOS 100ML	NOS																					
+FEEDS	MAXVIDA HP	NOS																					
+FEEDS	MAXVIDA HPHF	NOS																					
+FEEDS	MILK + EGG WHITE	NOS																					
+FEEDS	NEPHRO HP 200 ML	NOS																					
+FEEDS	NEPHRO HP VANILA	NOS																					
+FEEDS	NEPHRO LP VANILA	NOS																					
+FEEDS	OATS + 3 EGG WHITE	NOS																					
+FEEDS	OATS BLEND	NOS																					
+FEEDS	OATS EGG WHITE 100 ML	NOS																					
+FEEDS	PENTASURE 2.0	NOS																					
+FEEDS	PENTASURE FIBRE	NOS																					
+FEEDS	PEPTAMEN	NOS																					
+FEEDS	PURE MCT	NOS																					
+FEEDS	RAGGI + EGG WHITE	NOS																					
+FEEDS	RAGGI 100ML	NOS																					
+FEEDS	RESOURCE DIALYSIS	NOS																					
+FEEDS	RESOURCE FIBRE CHOICE SACHET	NOS																					
+FEEDS	VEG SOUP 100ML	NOS																					
+FEEDS	VIDAVANCE	NOS																					
+FEEDS	ZZ	NOS																					
+HOT BEVERAGES	BLACK COFFEE	NOS																					
+HOT BEVERAGES	BLACK TEA	NOS																					
+HOT BEVERAGES	BOOST	NOS																					
+HOT BEVERAGES	BOOST COFFEE	NOS																					
+HOT BEVERAGES	BRU COFFEE	NOS																					
+HOT BEVERAGES	CAFE COFFEE	NOS																					
+HOT BEVERAGES	CAFE TEA 15	NOS																					
+HOT BEVERAGES	CHUKKU KAPPY	NOS																					
+HOT BEVERAGES	COFFEE	NOS																					
+HOT BEVERAGES	FILTER BLACK COFFEE	NOS																					
+HOT BEVERAGES	FILTER BLACK TEA	NOS																					
+HOT BEVERAGES	FILTER COFFEE	NOS																					
+HOT BEVERAGES	FILTER HOT MILK	NOS																					
+HOT BEVERAGES	FILTER TEA	NOS																					
+HOT BEVERAGES	HORLICKS	NOS																					
+HOT BEVERAGES	HOT MILK	NOS																					
+HOT BEVERAGES	LIME TEA	NOS																					
+HOT BEVERAGES	MACHINE COFFEE	NOS																					
+HOT BEVERAGES	MACHINE TEA	NOS																					
+HOT BEVERAGES	MACHINE TEA @12	NOS																					
+HOT BEVERAGES	MINT TEA	NOS																					
+HOT BEVERAGES	SOUTH INDIAN BLACK COFFEE	NOS																					
+HOT BEVERAGES	STAFF FILTER BLACK COFFEE	NOS																					
+HOT BEVERAGES	STAFF FILTER BLACK TEA	NOS																					
+HOT BEVERAGES	STAFF FILTER COFFEE	NOS																					
+HOT BEVERAGES	STAFF FILTER TEA	NOS																					
+HOT BEVERAGES	TEA	NOS																					
+ICE CREAM	BAL VANILA	NOS																					
+ICE CREAM	BALL ICE CREAM VANILLA RS 10	NOS																					
+ICE CREAM	CHOCO BAR	NOS																					
+ICE CREAM	CHOCO BAR 45	NOS																					
+ICE CREAM	CHOCOBAR RS 25	NOS																					
+ICE CREAM	CHOCOSTIC RS 10	NOS																					
+ICE CREAM	CONE TOP BUTTER SCOTCH RS 30	NOS																					
+ICE CREAM	CONE TOP CHOCOLATE RS 40	NOS																					
+ICE CREAM	CONE TOP VANILA RS 10	NOS																					
+ICE CREAM	CUP ICE CREAM RS 10	NOS																					
+ICE CREAM	ICE CREAM CON TOP	NOS																					
+ICE CREAM	ICE CREAM RS 10	NOS																					
+ICE CREAM	ICE CREAM RS 15	NOS																					
+ICE CREAM	ICE CREAM RS 20	NOS																					
+ICE CREAM	ICE CREAM RS 25	NOS																					
+ICE CREAM	ICE CREAM RS 30	NOS																					
+ICE CREAM	ICE CREAM RS 35	NOS																					
+ICE CREAM	ICE CREAM RS 40	NOS																					
+ICE CREAM	ICE CREAM RS 45	NOS																					
+ICE CREAM	ICE CREAM RS 50	NOS																					
+ICE CREAM	KULFI ICE CREAM RS 5	NOS																					
+ICE CREAM	LAZZA CONE ICE CREAM CAPRI	NOS																					
+ICE CREAM	LAZZA CORN ICECREAM CAPRI -CHOCOLATE	NOS																					
+ICE CREAM	MANGO BAR	NOS																					
+ICE CREAM	MANGO BAR RS 25	NOS																					
+ICE CREAM	SIP UP RS 5	NOS																					
+ICE CREAM	SUNDAY FUNDAE	NOS																					
+INDIAN BREADS	BUTTER CHAPPATHI	NOS																					
+INDIAN BREADS	BUTTER PARATHA	NOS																					
+INDIAN BREADS	CHAPPATHY	NOS																					
+INDIAN BREADS	CHAPPTHI(1NOS)	NOS																					
+INDIAN BREADS	PARATHA	NOS																					
+INDIAN BREADS	PATHIRI	NOS																					
+INDIAN BREADS	PHULKA	NOS																					
+INDIAN BREADS	ZWHEAT PARATHA	NOS																					
+INDIAN BREADS	ZZZWHEAT PARATHA	NOS																					
+JUICE	FRESH JUICE SHAMAM @60	NOS																					
+JUICE	APPY FIZZ 160 MLTP RS 10	NOS																					
+JUICE	APPY FIZZ RS 12	NOS																					
+JUICE	APPY FIZZ RS 15	NOS																					
+JUICE	APPY FIZZ RS 20 1	NOS																					
+JUICE	APPY FIZZ RS 35	NOS																					
+JUICE	B FIZZ RS 35	NOS																					
+JUICE	B FIZZ 250ML RS 20	NOS																					
+JUICE	CAVINS MILKSHAKE RS 35	NOS																					
+JUICE	CRUSH JUICE	NOS																					
+JUICE	DAILEE JUICE RS 12	NOS																					
+JUICE	DAILEE MANGO RS 10	NOS																					
+JUICE	FLAVORD LIME	NOS																					
+JUICE	FLAVOURED SODA LIME	NOS																					
+JUICE	FRESH JUICE MANGO	NOS																					
+JUICE	FRESH JUICE CARROT	NOS																					
+JUICE	FRESH JUICE CUCUMBER	NOS																					
+JUICE	FRESH JUICE MANGO	NOS																					
+JUICE	FRESH JUICE PAPPAYA	NOS																					
+JUICE	FRESH JUICE PAPPAYA@50	NOS																					
+JUICE	FRESH JUICE POMOGRANITE	NOS																					
+JUICE	FROOTI RS 60	NOS																					
+JUICE	FROOTI 600 ML	NOS																					
+JUICE	FROOTI BOTTLE (160 ML) RS 10	NOS																					
+JUICE	FROOTI BOTTLE (300 ML)	NOS																					
+JUICE	FROOTI BOTTLE (600 ML)	NOS																					
+JUICE	FROOTI RS 15	NOS																					
+JUICE	FROOTI RS 42	NOS																					
+JUICE	FROOTI TP(160 ML)	NOS																					
+JUICE	FRUIT PUNCH	NOS																					
+JUICE	HER MILK SHAKE RS 35	NOS																					
+JUICE	JIVE JUICE RS 15	NOS																					
+JUICE	JIVE JUICE RS 50	NOS																					
+JUICE	JIVE MRP 20	NOS																					
+JUICE	JUICE SLICE (600 ML)	NOS																					
+JUICE	JUICE SLICE MANGO RS 10	NOS																					
+JUICE	JUICE SLICE MANGO RS 20	NOS																					
+JUICE	JUICE TOPICANA @ 20	NOS																					
+JUICE	MAA 250 ML RS 20	NOS																					
+JUICE	MAA BOTTLE (160 ML)	NOS																					
+JUICE	MAA BOTTLE (200 ML)	NOS																					
+JUICE	MAA BOTTLE (300 ML)	NOS																					
+JUICE	MAA BOTTLE (600 ML)	NOS																					
+JUICE	MAA LITCHI TP MRP 10	NOS																					
+JUICE	MAA MANGO RS 10	NOS																					
+JUICE	MAA RS 40	NOS																					
+JUICE	MINT LIME JUICE	NOS																					
+JUICE	SMOOTHIE	NOS																					
+JUICE	SODA	NOS																					
+JUICE	TENDER COCONUT PUNCH	NOS																					
+JUICE	TENDER COCONUT SHAKE	NOS																					
+JUICE	TENDER COCONUT WATER	NOS																					
+JUICE	TROPICANA POMEGRANATE 1L RS115	NOS																					
+JUICE	TROPICANA RS 20	NOS																					
+JUICE	TROPICANO APPLE 1 LTR	NOS																					
+JUICE	TROPICANO GUVA 1 LTR	NOS																					
+JUICE	TROPICANO JUICE MANGO DELATE	NOS																					
+JUICE	TROPICANO JUICE MIX DELATE	NOS																					
+JUICE	TROPICANO LITCHI 1 LTR	NOS																					
+JUICE	TROPICANO MANGO 1 LTR	NOS																					
+JUICE	TROPICANO MIXED FRUIT 1 LTR	NOS																					
+JUICE	TROPICANO ORANGE JUICE	NOS																					
+JUICE	ZAPPY FIZZ RS 20	NOS																					
+JUICE	ZZTENDER COCONUT	NOS																					
+LUNCH	BINDI MASALA	NOS																					
+LUNCH	CHATTICHOR	NOS																					
+LUNCH	COMBO PER HEAD 445	NOS																					
+LUNCH	COMBO PER HEAD 490	NOS																					
+LUNCH	DOSA SET	NOS																					
+LUNCH	DOSA(SINGLE PIECE)	NOS																					
+LUNCH	IDIYAPPAM SET	NOS																					
+LUNCH	IDLY SET	NOS																					
+LUNCH	KAPPA	NOS																					
+LUNCH	MIX VEG KURMA	NOS																					
+LUNCH	PALAPPAM	NOS																					
+LUNCH	PANEER MASALA	NOS																					
+LUNCH	POTHI BIRIYANI	NOS																					
+LUNCH	SPECIAL LUNCH 175	NOS																					
+LUNCH	TOMATO ROAST	NOS																					
+MILKSHAKE	HER MILK SHAKE RS 40	NOS																					
+MILKSHAKE	SMOODH MILK SHAKE RS 10	NOS																					
+OTHERS	CHATTI PATHIRI	NOS																					
+OTHERS	BOOST SACHET MRP 5	NOS																					
+OTHERS	CHOICE OF RAITHA	NOS																					
+OTHERS	CURD CATORI	NOS																					
+OTHERS	DISPOSIBLE GLASS	NOS																					
+OTHERS	DISPOSIBLE PLATE BIG	NOS																					
+OTHERS	DISPOSIBLE PLATE SMALL	NOS																					
+OTHERS	DRY FRUITS HALWA 500GM	NOS																					
+OTHERS	GHEE HALWA 500GM	NOS																					
+OTHERS	LAYS SPANISH TOMATTO MRP 18	NOS																					
+OTHERS	PANEER KIZHI	NOS																					
+OTHERS	PARCEL CHARGE LARGE	NOS																					
+OTHERS	PARCEL CHARGE MEDIUM	NOS																					
+OTHERS	PARCEL CHARGE SMALL	NOS																					
+OTHERS	PARCEL CONTAINER NEW	NOS																					
+OTHERS	RICE HALWA 500GM	NOS																					
+OTHERS	SNACKS BOX Rs.50	NOS																					
+OTHERS	SNACKS BOX Rs.60	NOS																					
+OTHERS	SNACKS BOX Rs.65	NOS																					
+OTHERS	SNACKS BOX Rs.70	NOS																					
+OTHERS	SNACKS BOX Rs.75	NOS																					
+OTHERS	SNACKS BOX Rs.80	NOS																					
+OTHERS	SNACKS BOX Rs.85	NOS																					
+OTHERS	SNACKS BOX Rs.90	NOS																					
+OTHERS	SNACKS BOX Rs.95	NOS																					
+PASTRY	PASTRY	NOS																					
+PASTRY	PASTRY DOUBLE	NOS																					
+PRODUCTION BAKERY KITCHEN	APPLE SHAKE	NOS																					
+PRODUCTION BAKERY KITCHEN	BUTTER CAKE	NOS																					
+PRODUCTION BAKERY KITCHEN	CHICKEN CHEESE BURGER	NOS																					
+PRODUCTION BAKERY KITCHEN	CHICKEN ROLL Nos	NOS																					
+PRODUCTION BAKERY KITCHEN	CHOCOLATE MOON	NOS																					
+PRODUCTION BAKERY KITCHEN	CINNAMON ROLL	NOS																					
+PRODUCTION BAKERY KITCHEN	FIG N HONEY SLICE CAKE	NOS																					
+PRODUCTION BAKERY KITCHEN	FRESH KIWI JUICE	NOS																					
+PRODUCTION BAKERY KITCHEN	GHEE CAKE SLICE BIG	NOS																					
+PRODUCTION BAKERY KITCHEN	HOT DOG SANDWICH	NOS																					
+PRODUCTION BAKERY KITCHEN	MARBLE CAKE 1KG	NOS																					
+PRODUCTION BAKERY KITCHEN	PINEAPPLE CAKE 500GM	NOS																					
+PRODUCTION BAKERY KITCHEN	PLUM CAKE 2KG	NOS																					
+PRODUCTION BAKERY KITCHEN	PLUM CAKE 500 GM	NOS																					
+PRODUCTION BAKERY KITCHEN	SPECIAL MUFFIN	NOS																					
+PRODUCTION BAKERY KITCHEN	STAFF BANANA PUFFS	NOS																					
+PRODUCTION BAKERY KITCHEN	VEG AND CHEESE SANDWICH	NOS																					
+PRODUCTION BAKERY KITCHEN	VEGETABLE CALZONE	NOS																					
+PRODUCTION MAIN KITCHEN	AMBUR BEEF BIRIYANI 190	NOS																					
+PRODUCTION MAIN KITCHEN	ASSORTED NUTS	NOS																					
+PRODUCTION MAIN KITCHEN	BEEF DRY FRY BDF	NOS																					
+PRODUCTION MAIN KITCHEN	BEEF FRY RS 125	NOS																					
+PRODUCTION MAIN KITCHEN	BEEF PEPPER FRY	NOS																					
+PRODUCTION MAIN KITCHEN	BISCUIT PUDDING	NOS																					
+PRODUCTION MAIN KITCHEN	BREAD ROAST	NOS																					
+PRODUCTION MAIN KITCHEN	CASHEW NUT 900 GM	NOS																					
+PRODUCTION MAIN KITCHEN	CHICKEN JALFREZI	NOS																					
+PRODUCTION MAIN KITCHEN	CHICKEN KUNJULLI ROAST	NOS																					
+PRODUCTION MAIN KITCHEN	CHICKEN LOLI POP	NOS																					
+PRODUCTION MAIN KITCHEN	CHICKEN SANDWICH40	NOS																					
+PRODUCTION MAIN KITCHEN	CHICKEN ULARTH	NOS																					
+PRODUCTION MAIN KITCHEN	CHICKEN VARATTIYATH	NOS																					
+PRODUCTION MAIN KITCHEN	CHICKEN VINDALOO	NOS																					
+PRODUCTION MAIN KITCHEN	CHILY BEEF	NOS																					
+PRODUCTION MAIN KITCHEN	COCKTAIL SAMOSA	NOS																					
+PRODUCTION MAIN KITCHEN	COCKTAIL SAMOSA 6 NOS	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO MEALS 720	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER HEAD 240	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER HEAD 275(275)	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER HEAD 525	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER HEAD 600	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER HEAD 650	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER HEAD 850	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER HEAD 875	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 100	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 110	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 200	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 220	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 300	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 410	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 440	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 475	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 500	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 560	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 590	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 610	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 625	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 750	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 800	NOS																					
+PRODUCTION MAIN KITCHEN	COMBO PER PAX 900	NOS																					
+PRODUCTION MAIN KITCHEN	DUCK MAPPAS	NOS																					
+PRODUCTION MAIN KITCHEN	EGG BIRIYANI 95	NOS																					
+PRODUCTION MAIN KITCHEN	FISH BIRIYANI(STAFF COMBO)	NOS																					
+PRODUCTION MAIN KITCHEN	FISH BIRIYANI120	NOS																					
+PRODUCTION MAIN KITCHEN	FISH BIRIYANI180	NOS																					
+PRODUCTION MAIN KITCHEN	FISH FRY @300	NOS																					
+PRODUCTION MAIN KITCHEN	FISH FRY @85	NOS																					
+PRODUCTION MAIN KITCHEN	FISH MASALA160	NOS																					
+PRODUCTION MAIN KITCHEN	FISH THALACURRY	NOS																					
+PRODUCTION MAIN KITCHEN	FRUIT BASKET	NOS																					
+PRODUCTION MAIN KITCHEN	FRUIT SALAD SMALL	NOS																					
+PRODUCTION MAIN KITCHEN	GRILLED FISH 150	NOS																					
+PRODUCTION MAIN KITCHEN	GRILLED FISH RS 280	NOS																					
+PRODUCTION MAIN KITCHEN	GRILLED HAMOUR	NOS																					
+PRODUCTION MAIN KITCHEN	GRILLED HAMOUR Nos	NOS																					
+PRODUCTION MAIN KITCHEN	GRILLED PANEER	NOS																					
+PRODUCTION MAIN KITCHEN	GRILLED VEG	NOS																					
+PRODUCTION MAIN KITCHEN	HARIYALI CHICKEN	NOS																					
+PRODUCTION MAIN KITCHEN	HI-TEA WITH NUTS AND COOKIES	NOS																					
+PRODUCTION MAIN KITCHEN	HI-TEA WITH NUTS AND COOKIES 150	NOS																					
+PRODUCTION MAIN KITCHEN	HOT SOUR CHICKEN SOUP	NOS																					
+PRODUCTION MAIN KITCHEN	K V CURRY	NOS																					
+PRODUCTION MAIN KITCHEN	KADA FRY	NOS																					
+PRODUCTION MAIN KITCHEN	KALLUMMAKKAI	NOS																					
+PRODUCTION MAIN KITCHEN	KANTHARI CHICKEN	NOS																					
+PRODUCTION MAIN KITCHEN	KAPPA BIRIYANI	NOS																					
+PRODUCTION MAIN KITCHEN	KAPPA VADA	NOS																					
+PRODUCTION MAIN KITCHEN	KERALA CHILLY CHICKEN	NOS																					
+PRODUCTION MAIN KITCHEN	MASALA BUTTER MILK	NOS																					
+PRODUCTION MAIN KITCHEN	MILK SHAKE STRAWBERRY	NOS																					
+PRODUCTION MAIN KITCHEN	MINI BIRIYANI	NOS																					
+PRODUCTION MAIN KITCHEN	MUSHROOM MUNCHURIAN	NOS																					
+PRODUCTION MAIN KITCHEN	MUTTON BIRIYANI	NOS																					
+PRODUCTION MAIN KITCHEN	NADAN CHICKEN CURRY	NOS																					
+PRODUCTION MAIN KITCHEN	PACHORE	NOS																					
+PRODUCTION MAIN KITCHEN	PALCHOR	NOS																					
+PRODUCTION MAIN KITCHEN	PALKAPPA WITH FISH CURRY	NOS																					
+PRODUCTION MAIN KITCHEN	PANEER BIRIYANI	NOS																					
+PRODUCTION MAIN KITCHEN	PASTA NON VEG	NOS																					
+PRODUCTION MAIN KITCHEN	PAV BHAJI	NOS																					
+PRODUCTION MAIN KITCHEN	PINEAPPLE CHAAT	NOS																					
+PRODUCTION MAIN KITCHEN	PINEAPPLE PAYASAM 1 LTR	NOS																					
+PRODUCTION MAIN KITCHEN	PORICHA PATHIRI	NOS																					
+PRODUCTION MAIN KITCHEN	PORICHA PATHIRI Nos	NOS																					
+PRODUCTION MAIN KITCHEN	PRAWNS COCKTAIL@220	NOS																					
+PRODUCTION MAIN KITCHEN	PREMIUM CUT FRUITS	NOS																					
+PRODUCTION MAIN KITCHEN	QUAIL EGGS BOILED	NOS																					
+PRODUCTION MAIN KITCHEN	RAGGI DOSA	NOS																					
+PRODUCTION MAIN KITCHEN	ROASTED SALAD	NOS																					
+PRODUCTION MAIN KITCHEN	ROW MANGO SALAD	NOS																					
+PRODUCTION MAIN KITCHEN	SCHEZWAN VEG FRIED RICE	NOS																					
+PRODUCTION MAIN KITCHEN	SEA FOOD RICE	NOS																					
+PRODUCTION MAIN KITCHEN	SPOUT SALAD	NOS																					
+PRODUCTION MAIN KITCHEN	STAFF AMBUR BEEF BIRIYANI	NOS																					
+PRODUCTION MAIN KITCHEN	STAFF COMBO RS100	NOS																					
+PRODUCTION MAIN KITCHEN	STAFF KUZHIMANTHI	NOS																					
+PRODUCTION MAIN KITCHEN	STAFF THALAPAKATTI BIRIYANI	NOS																					
+PRODUCTION MAIN KITCHEN	STRAWBERRY COCONUT CAKE	NOS																					
+PRODUCTION MAIN KITCHEN	STUFFED BANANA FRY	NOS																					
+PRODUCTION MAIN KITCHEN	THALPPAKETTY BIRIYANI	NOS																					
+PRODUCTION MAIN KITCHEN	ULLIVADA@14	NOS																					
+PRODUCTION MAIN KITCHEN	VETTCAKE RS15	NOS																					
+PRODUCTION MAIN KITCHEN	VETTUCAKE@15	NOS																					
+PROVISION	CAFE TEA CARDAMON PREMIUM 1KG	NOS																					
+PROVISION	CHILLY POWDER	NOS																					
+PROVISION	CHILLY POWDER KASHMIRI	NOS																					
+PROVISION	COFFEE BEANS 1KG	NOS																					
+PROVISION	CORIANDER POWDER	NOS																					
+PROVISION	GRAM (GREEN GRAM)	NOS																					
+PROVISION	PICKLE 5 KG	NOS																					
+PROVISION	PREMIX BRU COFFEE 1KG	NOS																					
+PROVISION	PREMIX RED LABEL TEA 1KG	NOS																					
+PROVISION	RICE BROKEN	NOS																					
+PROVISION	SALT POWDER	NOS																					
+PROVISION	SALT SACHET	NOS																					
+PROVISION	SUGAR SACHET	NOS																					
+PROVISION	TURMERIC POWDER	NOS																					
+RICE & NOODLES	BEEF BIRIYANI	NOS																					
+RICE & NOODLES	CASHEW & SAFFRON PULAO	NOS																					
+RICE & NOODLES	CHICKEN BIRIYANI	NOS																					
+RICE & NOODLES	CHICKEN BIRIYANI-HALF	NOS																					
+RICE & NOODLES	CHICKEN FRIED RICE	NOS																					
+RICE & NOODLES	CHICKEN NOODLE	NOS																					
+RICE & NOODLES	CURD RICE	NOS																					
+RICE & NOODLES	EGG BIRIYANI	NOS																					
+RICE & NOODLES	EGG FRIED RICE	NOS																					
+RICE & NOODLES	EGG NOODLE	NOS																					
+RICE & NOODLES	FISH BIRIYANI	NOS																					
+RICE & NOODLES	FISH BIRIYANI-HALF	NOS																					
+RICE & NOODLES	FISH CURRY MEAL	NOS																					
+RICE & NOODLES	GHEE RICE	NOS																					
+RICE & NOODLES	GHEE RICE-HALF	NOS																					
+RICE & NOODLES	KALAM BEEF BIRIYANI	NOS																					
+RICE & NOODLES	KALAM BIRIYANI RETURN	NOS																					
+RICE & NOODLES	KALAM CHICKEN BIRIYANI	NOS																					
+RICE & NOODLES	KALAM FISH BIRIYANI	NOS																					
+RICE & NOODLES	KALAM MUTTON BIRIYANI	NOS																					
+RICE & NOODLES	KANJI	NOS																					
+RICE & NOODLES	KAPPA $ THALA CURRY	NOS																					
+RICE & NOODLES	KARKIDAKA KANJI	NOS																					
+RICE & NOODLES	KASMIRI PULAO	NOS																					
+RICE & NOODLES	LEMON RICE	NOS																					
+RICE & NOODLES	MIXED FRIED RICE	NOS																					
+RICE & NOODLES	PLAIN RICE	NOS																					
+RICE & NOODLES	PONGAL MRP 30	NOS																					
+RICE & NOODLES	POTHI FISH BIRIYANI	NOS																					
+RICE & NOODLES	SCHEWAN CHICKEN FRIED RICE	NOS																					
+RICE & NOODLES	SCHEWAN EGG FRIED RICE	NOS																					
+RICE & NOODLES	SCHEWAN VEG FRIED RICE	NOS																					
+RICE & NOODLES	SINGAPORE FRIED RICE	NOS																					
+RICE & NOODLES	SPECIAL LUNCH	NOS																					
+RICE & NOODLES	TOMATO RICE	NOS																					
+RICE & NOODLES	VEG BIRIYANI	NOS																					
+RICE & NOODLES	VEG FRIED RICE	NOS																					
+RICE & NOODLES	VEG FRIED-HALF	NOS																					
+RICE & NOODLES	VEG MEAL	NOS																					
+RICE & NOODLES	VEG NOODLE	NOS																					
+RICE & NOODLES	VEG PULAO	NOS																					
+RICE & NOODLES	Z PRODUCTION TEST	NOS																					
+RUSK	BABYRUSK 250GM @80	NOS																					
+RUSK	BRITANIA MILK RUSK RS 35	NOS																					
+RUSK	BRITANIYA RUSK MRP 30	NOS																					
+RUSK	MILK RUSK 200 GM MRP 30	NOS																					
+RUSK	RUSK 35	NOS																					
+SALADS	CAESAR SALAD	NOS																					
+SALADS	CAESAR SALAD WITH GRILLED CHICKEN	NOS																					
+SALADS	CAESAR SALAD PLAIN	NOS																					
+SALADS	CUBER SALAD	NOS																					
+SALADS	GARDEN FRESH SALAD	NOS																					
+SALADS	GREEK SALAD	NOS																					
+SALADS	KIMCHI SALAD	NOS																					
+SALADS	TOSSED SALAD	NOS																					
+SANDWICHES	CHICKEN SANDWICH	NOS																					
+SANDWICHES	CLUB SANDWHICH	NOS																					
+SANDWICHES	EGG SANDWICH	NOS																					
+SANDWICHES	VEG SANDWICH	NOS																					
+SEA FOOD	AYALA FRY	NOS																					
+SEA FOOD	AYALA POLICHATHU	NOS																					
+SEA FOOD	BBQ SQUID	NOS																					
+SEA FOOD	BRAISED CHILLI FISH	NOS																					
+SEA FOOD	CRAB ROAST	NOS																					
+SEA FOOD	FISH CURRY	NOS																					
+SEA FOOD	FISH CUTLET	NOS																					
+SEA FOOD	FISH FRY	NOS																					
+SEA FOOD	FISH FRY 75	NOS																					
+SEA FOOD	FISH FRY SMALL	NOS																					
+SEA FOOD	FISH MASALA	NOS																					
+SEA FOOD	FISH MOLI	NOS																					
+SEA FOOD	FISH N CHIPS	NOS																					
+SEA FOOD	FISH PEERA	NOS																					
+SEA FOOD	FISH PODIMEEN FRY	NOS																					
+SEA FOOD	FISH POLLICHATHU	NOS																					
+SEA FOOD	FISH POLLICHATHU.	NOS																					
+SEA FOOD	FISH SANWICH	NOS																					
+SEA FOOD	FISH TIKKA	NOS																					
+SEA FOOD	GARLIC MASALA PRAWNS	NOS																					
+SEA FOOD	GRILLED FISH MEDIUM	NOS																					
+SEA FOOD	GRILLED KINGFISH	NOS																					
+SEA FOOD	HAMOUR FISH MOLI	NOS																					
+SEA FOOD	KAKKA FRY	NOS																					
+SEA FOOD	KAKKA ULARTH	NOS																					
+SEA FOOD	KARIMEEN FRY	NOS																					
+SEA FOOD	KARIMEEN MASALA	NOS																					
+SEA FOOD	KINGFISH CURRY 85	NOS																					
+SEA FOOD	KINGFISH FRY 220	NOS																					
+SEA FOOD	KINGFISH FRY 250	NOS																					
+SEA FOOD	MEEN POLLICHATHU	NOS																					
+SEA FOOD	MEEN VATICHATHU	NOS																					
+SEA FOOD	NEIMEEN FRY LARGE	NOS																					
+SEA FOOD	NEIMEEN FRY MEDIUM	NOS																					
+SEA FOOD	POACHED FISH	NOS																					
+SEA FOOD	PRAWNS COKTAIL	NOS																					
+SEA FOOD	PRAWNS KIZHI	NOS																					
+SEA FOOD	SEA FOOD FRIED RICE	NOS																					
+SEA FOOD	SEER FISH BIG	NOS																					
+SEA FOOD	SEER FISH CUTLET	NOS																					
+SEA FOOD	SQUID ROAST	NOS																					
+SEA FOOD	THAWA FRIED FISH	NOS																					
+SEA FOOD	TILOPIA PEPPER SALT	NOS																					
+SEA FOOD	TUNA ROLL	NOS																					
+SEA FOOD	WALK TOAST PEPPER FISH	NOS																					
+SNACKS	ACHAPPAM RS 60	NOS																					
+SNACKS	AD CARD PAYMENT	NOS																					
+SNACKS	AD CASH PAYMENT	NOS																					
+SNACKS	AD NEW ITEM SOLD	NOS																					
+SNACKS	AD ONLINE PAYMENT	NOS																					
+SNACKS	AVAL BONDA	NOS																					
+SNACKS	BANANA PUFFS	NOS																					
+SNACKS	BANANA BALLS	NOS																					
+SNACKS	BANANA CHIPS RS 100	NOS																					
+SNACKS	BANANA CHIPS RS 65	NOS																					
+SNACKS	BANANA CHIPS RS 70	NOS																					
+SNACKS	BANANA CUTLET	NOS																					
+SNACKS	BANANA FRY	NOS																					
+SNACKS	BANANA FRY WITH BEEF(80)	NOS																					
+SNACKS	BANANA ROAST	NOS																					
+SNACKS	BEEF CUTLATE	NOS																					
+SNACKS	BON	NOS																					
+SNACKS	BONDA @10	NOS																					
+SNACKS	BROASTED CHICKEN WITH FRENCH FRIES&SINGL	NOS																					
+SNACKS	BROWNY CAKE 20	NOS																					
+SNACKS	BUN	NOS																					
+SNACKS	BUN NEW	NOS																					
+SNACKS	CHAPATI ROLL EGG	NOS																					
+SNACKS	CHAPATI ROLL VEG	NOS																					
+SNACKS	CHAPPATHI CHICKEN ROLL	NOS																					
+SNACKS	CHICKEN BONDA	NOS																					
+SNACKS	CHICKEN BURGER	NOS																					
+SNACKS	CHICKEN CALZON(140)	NOS																					
+SNACKS	CHICKEN CUTLET	NOS																					
+SNACKS	CHICKEN PATHRI	NOS																					
+SNACKS	CHICKEN PUFFS	NOS																					
+SNACKS	CHICKEN SAMOSA	NOS																					
+SNACKS	CHOCOLATE BALL	NOS																					
+SNACKS	COCONUT BALL RS 55	NOS																					
+SNACKS	COLESLAW CHICKEN	NOS																					
+SNACKS	COLESLAW VEGETABLE	NOS																					
+SNACKS	CREAM COCONUT JAMROLL @20	NOS																					
+SNACKS	DATES LADDU	NOS																					
+SNACKS	DELINUT ALMOND RS 130	NOS																					
+SNACKS	DOUGHNUT RS 20	NOS																					
+SNACKS	EGG PAKODA	NOS																					
+SNACKS	EGG PUFFS	NOS																					
+SNACKS	ELA ADA	NOS																					
+SNACKS	ELANCHI	NOS																					
+SNACKS	FAMILY BREAD	NOS																					
+SNACKS	FRENCH FRIES	NOS																					
+SNACKS	HOTDOG WITH FRIES(120)	NOS																					
+SNACKS	JACKFRUIT CHIPS RS 75	NOS																					
+SNACKS	KALYODAKKA RS 65	NOS																					
+SNACKS	KOZHUKATTA 12	NOS																					
+SNACKS	KUMBILAPPAM	NOS																					
+SNACKS	KUZHALAPPAM RS 60	NOS																					
+SNACKS	LADDU@12	NOS																					
+SNACKS	MASALA BONDA	NOS																					
+SNACKS	MASALA KOZHUKATTA	NOS																					
+SNACKS	MEAT CUTLET	NOS																					
+SNACKS	MEAT PUFFS	NOS																					
+SNACKS	MEAT ROLLS	NOS																					
+SNACKS	MIXTURE RS 50	NOS																					
+SNACKS	MIXTURE RS 60	NOS																					
+SNACKS	MULAK VADA	NOS																					
+SNACKS	NUTY PINK COCONUT PASTRY	NOS																					
+SNACKS	OATS COATED BANANA	NOS																					
+SNACKS	ONION PAKODA RS.20	NOS																					
+SNACKS	PAKKAVADA RS 50	NOS																					
+SNACKS	PAKKAVADA RS 60	NOS																					
+SNACKS	PARATHA ROLL@30 Nos	NOS																					
+SNACKS	PARIPPUVADA@10	NOS																					
+SNACKS	PATHIRI @12	NOS																					
+SNACKS	PATHRI	NOS																					
+SNACKS	PEANUT MASALA	NOS																					
+SNACKS	PEAS VADA	NOS																					
+SNACKS	PIZZA MARGARITA(120)	NOS																					
+SNACKS	PIZZA MUSHROOM(140)	NOS																					
+SNACKS	POTHI PARATHA (99)	NOS																					
+SNACKS	SARKARAPURATTY RS 90	NOS																					
+SNACKS	SARKKARAVARATTY RS 50	NOS																					
+SNACKS	SPANISH OMLETTE WITH GRALIC LOAF(120)	NOS																					
+SNACKS	STAFF BANANA FRY	NOS																					
+SNACKS	STAFF BREAD FRY	NOS																					
+SNACKS	STEAMED BANANA	NOS																					
+SNACKS	SUGHIAN	NOS																					
+SNACKS	SUGHIYAN RS 13	NOS																					
+SNACKS	SWEETNA	NOS																					
+SNACKS	TAPIOCA CHIPS RS 50	NOS																					
+SNACKS	TAPIOCA CHIPS RS 90	NOS																					
+SNACKS	THAYIR VADAI	NOS																					
+SNACKS	TOMATO MURUKKU RS 50	NOS																					
+SNACKS	ULLI VADA	NOS																					
+SNACKS	UNNAKKAYA	NOS																					
+SNACKS	UZHUNNUVADA	NOS																					
+SNACKS	UZHUNNUVADA@11	NOS																					
+SNACKS	VATTAYAPPAM	NOS																					
+SNACKS	VEG BURGER	NOS																					
+SNACKS	VEG CALZONE(120)	NOS																					
+SNACKS	VEG CUTLET RS 15	NOS																					
+SNACKS	VEG CUTLET(15)	NOS																					
+SNACKS	VEG SAMOSA	NOS																					
+SNACKS	VEG SPRING ROLL	NOS																					
+SNACKS	VEGETABLE & CHEESE	NOS																					
+SNACKS	VEGETABLE CUTLET	NOS																					
+SNACKS	VEGETABLE CUTLET Nos	NOS																					
+SNACKS	VEGETABLE PUFFS	NOS																					
+SNACKS	VEGETABLE SAMOSA	NOS																					
+SNACKS	WHITE PEANUT RS 40	NOS																					
+SNACKS	YARL BISCUTS RS 50	NOS																					
+SNACKS	ZACHAPPAM RS 65	NOS																					
+SNACKS	ZPARIPPU VADA	NOS																					
+SNACKS	ZUZHUNNU VADA	NOS																					
+SNACKS	ZVATTAYAPPAM	NOS																					
+SOUPS	CHICKEN CLEAR SOUP	NOS																					
+SOUPS	CREAM OF CHICKEN SOUP	NOS																					
+SOUPS	CREAM OF MUSHROOM SOUP	NOS																					
+SOUPS	CREAM OF VEG SOUP	NOS																					
+SOUPS	SWEETCORN/HOT AND SOUR CHICKEN SOUP	NOS																					
+SOUPS	SWEETCORN/HOT AND SOUR VEG SOUP	NOS																					
+SOUPS	VEG CLEAR SOUP	NOS																					
+SOUPS	WANG TONG CHICKEN SOUP	NOS																					
+SOUPS	WANG TONG VEG SOUP	NOS																					
+VEGETABLES	ALOO CAPSICUM	NOS																					
+VEGETABLES	ALOO GOBI MASALA	NOS																					
+VEGETABLES	ALOO JEERA	NOS																					
+VEGETABLES	BOILED VEG	NOS																					
+VEGETABLES	CHANNA CHAAT	NOS																					
+VEGETABLES	CHILLI PANEER	NOS																					
+VEGETABLES	CHILLY GOBI	NOS																					
+VEGETABLES	CHILLY MUSHROOM 120	NOS																					
+VEGETABLES	DAL FRY	NOS																					
+VEGETABLES	DAL TADKA	NOS																					
+VEGETABLES	GOBI MANCHURIAN	NOS																					
+VEGETABLES	GOBI MANCHURIAN-HALF	NOS																					
+VEGETABLES	GOBI MASALA	NOS																					
+VEGETABLES	GREEN PEAS CURRY	NOS																					
+VEGETABLES	GREEN SALAD	NOS																					
+VEGETABLES	GRILLED BROCCOLI	NOS																					
+VEGETABLES	KADALA CURRY	NOS																					
+VEGETABLES	KADAYI PANEER	NOS																					
+VEGETABLES	METHI PANEER	NOS																					
+VEGETABLES	MUSHROOM MASALA	NOS																					
+VEGETABLES	PALAK PANEER	NOS																					
+VEGETABLES	PANEER BUTTER MASALA	NOS																					
+VEGETABLES	PANEER TIKA	NOS																					
+VEGETABLES	ROASTED VEG	NOS																					
+VEGETABLES	SCHEWAN GOBI	NOS																					
+VEGETABLES	TOMATO FRY	NOS																					
+VEGETABLES	VEG CURRY	NOS																					
+VEGETABLES	VEG JALFREZI	NOS																					
+VEGETABLES	VEG KURMA	NOS																					
+VEGETABLES	VEG STEW	NOS																					
+PROVISION	ADA	PKT																					
+DISPOSABLE ITEMS	ALUMINIUM CONTAINER 250ML	NOS																					
+DISPOSABLE ITEMS	ALUMINIUM CONTAINER 450ML	NOS																					
+DISPOSABLE ITEMS	ALUMINIUM CONTAINER 750ML	NOS																					
+DISPOSABLE ITEMS	ALUMINIUM FOIL 72 MTR	NOS																					
+PROVISION	AMRITH SUPER 15 KG	BOX																					
+FEED PRODUCTS	ARROWROOT POWDER	TIN																					
+CONFECTIONERY & BEVERAGES	ARROWROOT RS 30	PKT																					
+CONFECTIONERY & BEVERAGES	ARROWROOT RS-50	PKT																					
+PROVISION	ASAFOETIDA POWDER 100GM	TIN																					
+PROVISION	ASAFOITIDA CAKE 100GM	PKT																					
+PROVISION	ATTA AAHISHIRVAD	KG																					
+PROVISION	AVAL	KG																					
+FEED PRODUCTS	BARLEY POWDER	BTL																					
+PROVISION	BAY LEAVES	KG																					
+PROVISION	BIRIANI ESSENCE	NOS																					
+PROVISION	BIRIYANI ESSENCE PINEAPPLE	BTL																					
+PROVISION	BOOST SACHET MRP 5	PKT																					
+CONFECTIONERY & BEVERAGES	BOUNTY RS 30	NOS																					
+CONFECTIONERY & BEVERAGES	BOUNTY RS 70	NOS																					
+CONFECTIONERY & BEVERAGES	BRITANIA 50-50 MRP 30	NOS																					
+CONFECTIONERY & BEVERAGES	BRITANIA MILK RUSK RS 35	PKT																					
+PROVISION	BUNGE LOTUS	BOX																					
+DISPOSABLE ITEMS	BUTTER PAPER	KG																					
+PROVISION	CAFE COFFEE DIET	PKT																					
+PROVISION	CAFE COFFEE POWDER	PKT																					
+PROVISION	CAFE TEA CARDAMON PREMIUM 1KG	PKT																					
+PROVISION	CAFE TEA DIET 1KG	PKT																					
+DISPOSABLE ITEMS	CAKE BOX 10*10	NOS																					
+DISPOSABLE ITEMS	CAKE BOX 7*5*2	NOS																					
+DISPOSABLE ITEMS	CAKE CUP	PKT																					
+PROVISION	CAKE GEL	TIN																					
+CONFECTIONERY & BEVERAGES	CANDY (DIFFERENT FLAVOUR)	PKT																					
+PROVISION	CARDAMOM	KG																					
+DISPOSABLE ITEMS	CARRY BAG CLOTH	NOS																					
+PROVISION	CASHEW KERNELS	KG																					
+PROVISION	CASHEW SPLIT	KG																					
+PROVISION	CASHEWNUT POWDER	KG																					
+PROVISION	CAUSTIC CARAMEL	KG																					
+PROVISION	CHANNA BLACK	KG																					
+PROVISION	CHANNA WHITE	KG																					
+COOKED FOOD	CHAPPATHY	NOS																					
+PROVISION	CHAT MASALA	PKT																					
+PROVISION	CHERRY DRY	KG																					
+PROVISION	CHICKEN BROTH	PKT																					
+MEAT & POULTRY	CHICKEN FROZEN	KG																					
+PROVISION	CHICKEN MASALA	KG																					
+PROVISION	CHILLY POWDER	KG																					
+PROVISION	CHILLY POWDER KASHMIRI	KG																					
+PROVISION	CHILLY RED WHOLE DRY	KG																					
+PROVISION	CHOCOLATE COMPOUND DARK	PKT																					
+PROVISION	CHOCOLATE COMPOUND WHITE	PKT																					
+PROVISION	CINNAMON STICK	KG																					
+DISPOSABLE ITEMS	CLING FILIM 600 MTR	NOS																					
+PROVISION	CLOVES	KG																					
+VEGETABLES	COCONUT	KG																					
+PROVISION	COCONUT MILK POWDER	PKT																					
+PROVISION	COCUM	KG																					
+PROVISION	COFFEE BEANS 1KG	PKT																					
+PROVISION	COFFEE BRU 200 GM	PKT																					
+PROVISION	COFFEE BRU SACHETS	PKT																					
+PROVISION	COOKING CREAM	PKT																					
+FEED PRODUCTS	COPEWEL HPC VANILLA 400G	TIN																					
+PROVISION	CORIANDER POWDER	KG																					
+PROVISION	CORIANDER SEED	KG																					
+PROVISION	CORN FLOUR	KG																					
+PROVISION	CUMIN SEED	KG																					
+PROVISION	CURD CHILLIES	KG																					
+PROVISION	CUSTARD POWDER	PKT																					
+PROVISION	DAL SAMBAR	KG																					
+PROVISION	DAL URAD	KG																					
+PROVISION	DALDA	PKT																					
+CONFECTIONERY & BEVERAGES	DARK FANTACY	NOS																					
+PROVISION	DESCICATED COCONUT	PKT																					
+DISPOSABLE ITEMS	DISPOSABLE SPOON WOODEN	PKT																					
+MEAT & POULTRY	EGG DUCK	NOS																					
+MEAT & POULTRY	EGG HEN	NOS																					
+FEED PRODUCTS	ENSURE DIABETES CARE	TIN																					
+FEED PRODUCTS	ENSURE VANILA (PLUS)	TIN																					
+PROVISION	EQUAL SUGAR SACHET	PKT																					
+PROVISION	ESSENCE BANANA 500ML	BTL																					
+PROVISION	ESSENCE SWEET ORANGE 500 ML	NOS																					
+PROVISION	ESSENCE VANILA 500ML	BTL																					
+PROVISION	FENNEL SEED	KG																					
+PROVISION	FENU GREEK	KG																					
+SEA FOOD	FISH KANNI AYALA	KG																					
+SEA FOOD	FISH MATHI	KG																					
+SEA FOOD	FISH OZHUVA	KG																					
+SEA FOOD	FISH THALA	KG																					
+FEED PRODUCTS	FRESUBIN HEPA 400 GM	TIN																					
+CONFECTIONERY & BEVERAGES	FROOTI BOTTLE (300 ML)	NOS																					
+CONFECTIONERY & BEVERAGES	FROOTI BOTTLE (600 ML)	NOS																					
+CONFECTIONERY & BEVERAGES	FROOTI RS 42	NOS																					
+CONFECTIONERY & BEVERAGES	FROOTI TP(160 ML)	NOS																					
+FUEL	FUEL GEL	TIN																					
+CONFECTIONERY & BEVERAGES	GALAXY  RS 20	PKT																					
+CONFECTIONERY & BEVERAGES	GALAXY DARK RS 50	NOS																					
+CONFECTIONERY & BEVERAGES	GALAXY DARK RS 99	NOS																					
+CONFECTIONERY & BEVERAGES	GALAXY RS 10	NOS																					
+CONFECTIONERY & BEVERAGES	GALAXY RS 50	NOS																					
+CONFECTIONERY & BEVERAGES	GALAXY RS 90	NOS																					
+PROVISION	GELATIN	PKT																					
+PROVISION	GHEE	TIN																					
+PROVISION	GINGELY SEED BLACK	KG																					
+PROVISION	GINGELY SEED WHITE	KG																					
+PROVISION	GINGER POWDER	PKT																					
+CONFECTIONERY & BEVERAGES	GOOD DAY 50	PKT																					
+CONFECTIONERY & BEVERAGES	GOOD DAY RS 25	PKT																					
+PROVISION	GRAM (GREEN GRAM)	KG																					
+PROVISION	GRAM RED (LOBIYA)	KG																					
+PROVISION	GREEN PEAS	KG																					
+PROVISION	GSM 15KG	BOX																					
+CHEMICALS	HAND WASH	LTR																					
+FEED PRODUCTS	HEALTH MIX POWDER	TIN																					
+CONFECTIONERY & BEVERAGES	HER CHOCO TUBE RS 20	NOS																					
+CONFECTIONERY & BEVERAGES	HER KIS RS 60	NOS																					
+CONFECTIONERY & BEVERAGES	HER KISS RS 140	PKT																					
+CONFECTIONERY & BEVERAGES	HER KISS RS 160	PKT																					
+CONFECTIONERY & BEVERAGES	HER KISS RS 50	PKT																					
+CONFECTIONERY & BEVERAGES	HER KISS RS 55	NOS																					
+CONFECTIONERY & BEVERAGES	HER MILK SHAKE RS 40	PKT																					
+CONFECTIONERY & BEVERAGES	HIDE & SEEK RS 30	PKT																					
+FEED PRODUCTS	HINEX HP 400GM	TIN																					
+DISPOSABLE ITEMS	HM PACKING SHEET	KG																					
+FEED PRODUCTS	HORLICKS PROTEIN POWDER VANILA 400GM	TIN																					
+PROVISION	HORSE GRAM	KG																					
+PROVISION	ICING SUGAR	KG																					
+PROVISION	JAGGERY	KG																					
+PROVISION	KASTHURI METHI	PKT																					
+PROVISION	KISMIS	KG																					
+CONFECTIONERY & BEVERAGES	KITKAT @10	NOS																					
+DISPOSABLE ITEMS	LD COVER	KG																					
+CHEMICALS	LEMON GRASS OIL	LTR																					
+CHEMICALS	LG KING - LFC 50 KG	KG																					
+PROVISION	LIME SEASONING POWDER	PKT																					
+FUEL	LPG CYLINDER 19 KG	CYL																					
+CHEMICALS	LUMIN -LD 50KF	KG																					
+CONFECTIONERY & BEVERAGES	MAA 250 ML RS 20	PKT																					
+CONFECTIONERY & BEVERAGES	MAA RS 40	PKT																					
+PROVISION	MAIDA	KG																					
+CONFECTIONERY & BEVERAGES	MALKIST BISCUT RS 50	PKT																					
+PROVISION	MANGO PULP	TIN																					
+CONFECTIONERY & BEVERAGES	MARS RS 70	NOS																					
+PROVISION	MARVO PRIDE 14 KG	BOX																					
+FEED PRODUCTS	MAXVIDA HIGH PROTEIN VANILLA	NOS																					
+FEED PRODUCTS	MAXVIDA HPHF VANILLA	TIN																					
+PROVISION	MAYONISE	PKT																					
+PROVISION	MEAT MASALA	KG																					
+CONFECTIONERY & BEVERAGES	MEDLEY GIFT BOX RS 300	NOS																					
+DAIRY PRODUCTS	MILK 3 SM 500	PKT																					
+PROVISION	MILK MAID	TIN																					
+CONFECTIONERY & BEVERAGES	MILKYBAR MOULD RS.20	PKT																					
+CONFECTIONERY & BEVERAGES	MILKYBAR RS.10	PKT																					
+CONFECTIONERY & BEVERAGES	MINERAL WATER 1 LTR RS 20	BTL																					
+CONFECTIONERY & BEVERAGES	MINERAL WATER 500ML	BTL																					
+CONFECTIONERY & BEVERAGES	MUNCH NUT RS 10	PKT																					
+CONFECTIONERY & BEVERAGES	MUNCH NUTS MRP 20	NOS																					
+CONFECTIONERY & BEVERAGES	MUNCH RS 5	PKT																					
+PROVISION	MUSHROOM	TIN																					
+PROVISION	MUSTARD	KG																					
+PROVISION	MUSTARD PASTE	BTL																					
+FEED PRODUCTS	NEPRO HP	BTL																					
+FEED PRODUCTS	NEPRO LP	TIN																					
+PROVISION	OATS	KG																					
+PROVISION	OIL COCONUT LTR	LTR																					
+PROVISION	OIL PALMOLINE	PKT																					
+PROVISION	OIL SUNFLOWER	PKT																					
+CONFECTIONERY & BEVERAGES	OREO RS 35	NOS																					
+DISPOSABLE ITEMS	PACKING CONTAINER 100 ML	NOS																					
+DISPOSABLE ITEMS	PAPER COVER BROWN 14X8	NOS																					
+DISPOSABLE ITEMS	PAPER CUP 150ML	NOS																					
+DISPOSABLE ITEMS	PAPER CUP 150ML BIO	NOS																					
+DISPOSABLE ITEMS	PAPER CUP 150ML LID	NOS																					
+DISPOSABLE ITEMS	PAPER CUP 210 ML	NOS																					
+DISPOSABLE ITEMS	PAPER CUP 210 ML PRINTED	NOS																					
+DISPOSABLE ITEMS	PAPER CUP TRIPPLE LAYER	NOS																					
+DISPOSABLE ITEMS	PAPER NAPKIN	PKT																					
+DISPOSABLE ITEMS	PAPER NAPKIN PRINTED	PKT																					
+DISPOSABLE ITEMS	PAPER PLATE 8INCH	PKT																					
+DISPOSABLE ITEMS	PAPER PLATE SQUARE	NOS																					
+DISPOSABLE ITEMS	PAPER ROLL	NOS																					
+DISPOSABLE ITEMS	PAPER STRAW	PKT																					
+DISPOSABLE ITEMS	PAPER TABLE MATE PRINTED	NOS																					
+CONFECTIONERY & BEVERAGES	PARLE HAPPY HAPPY RS 10	PKT																					
+CONFECTIONERY & BEVERAGES	PARLE KRACK JACK RS 40	PKT																					
+PROVISION	PASSION FRUIT SQASH 1LTR	NOS																					
+PROVISION	PATHIMUKHAM	PKT																					
+FEED PRODUCTS	PENTASURE 2.0	TIN																					
+PROVISION	PEPPER POWDER WHITE	PKT																					
+PROVISION	PEPPER SACHETS	PKT																					
+PROVISION	PEPPER WHOLE BLACK	KG																					
+FEED PRODUCTS	PEPTAMEN	BTL																					
+PROVISION	PICKLE MANGO 5 KG	NOS																					
+PROVISION	PICKLE POWDER	KG																					
+PROVISION	PILLS AMERICAN BROWNY	KG																					
+PROVISION	PILLS CELEBRATIONS CHOCOLATE	KG																					
+PROVISION	PILLS MOIST VANILA	KG																					
+PROVISION	PINAPPLE CRUSH	BTL																					
+PROVISION	PINAPPLE GLAZE	TIN																					
+DISPOSABLE ITEMS	PIPING BAG	NOS																					
+DISPOSABLE ITEMS	PLASTIC 750ML CONTAINER (4CP)	NOS																					
+DISPOSABLE ITEMS	PLASTIC GLASS 300ML	NOS																					
+DISPOSABLE ITEMS	PLASTIC GLOVES	NOS																					
+DISPOSABLE ITEMS	PLASTIC SOUP BOWL 150ML	NOS																					
+CONFECTIONERY & BEVERAGES	POTATO BISCUT MRP 25	NOS																					
+PROVISION	PREMIUM COFFEE BREW SIDAPUR 200 GMS	PKT																					
+PROVISION	PREMIUM TEA SIDAPUR 200 GMS	PKT																					
+PROVISION	PREMIX BRU COFFEE 1KG	PKT																					
+PROVISION	PREMIX DIET COFFEE POWDER 1KG	PKT																					
+PROVISION	PREMIX RED LABEL TEA 1KG	PKT																					
+FEED PRODUCTS	RAGI POWDER	TIN																					
+PROVISION	RASAM POWDER	KG																					
+PROVISION	RAVA	KG																					
+PROVISION	RED VELVET 5 KG	PKT																					
+FEED PRODUCTS	RESOURCE DIALYSIS	BTL																					
+FEED PRODUCTS	RESOURCE FIBRE CHOICE SACHET	NOS																					
+PROVISION	RICE  JAYA	KG																					
+PROVISION	RICE BASMATHI KOHINOOR	KG																					
+PROVISION	RICE BROKEN	KG																					
+PROVISION	RICE KAIMA	KG																					
+PROVISION	RICE KUTHARI	KG																					
+PROVISION	RICE POWDER	KG																					
+PROVISION	RICE RAW	KG																					
+PROVISION	ROASTEA CARDAMOM TEA GOT	PKT																					
+PROVISION	ROASTIX COFFE POWDER GOT	PKT																					
+PROVISION	ROSE MARY	TIN																					
+PROVISION	SALT POWDER	PKT																					
+PROVISION	SALT SACHET	PKT																					
+PROVISION	SAMBAR POWDER	KG																					
+PROVISION	SAUCE 8TO8	BTL																					
+PROVISION	SAUCE BBQ	BTL																					
+PROVISION	SAUCE GREEN CHILLY	KG																					
+PROVISION	SAUCE OYSTER	BTL																					
+PROVISION	SAUCE SOYA	BTL																					
+PROVISION	SAUCE STEAK	TIN																					
+PROVISION	SAUCE TABASCO	BTL																					
+PROVISION	SAUCE TOMATO	KG																					
+PROVISION	SAUCE WC	NOS																					
+PROVISION	SEMIYA	PKT																					
+DISPOSABLE ITEMS	SILVER POUCH COVER 10X12	PKT																					
+DISPOSABLE ITEMS	SILVER POUCH COVER 5X7	PKT																					
+DISPOSABLE ITEMS	SIP LOCK COVER 4*6	PKT																					
+CONFECTIONERY & BEVERAGES	SNICKERS @10	NOS																					
+CONFECTIONERY & BEVERAGES	SNICKERS RS 20	PKT																					
+CONFECTIONERY & BEVERAGES	SNICKERS RS 25	NOS																					
+CONFECTIONERY & BEVERAGES	SNICKERS RS 30	NOS																					
+CONFECTIONERY & BEVERAGES	SNICKERS RS 35	NOS																					
+CONFECTIONERY & BEVERAGES	SNICKERS RS 50	PKT																					
+PROVISION	SODA POWDER	KG																					
+CHEMICALS	SODIUM HYPOCHLORITE 50 LTR CAN	LTR																					
+DISPOSABLE ITEMS	SPRING CAP DISPOSABLE	PKT																					
+PROVISION	SSM 15KG	BOX																					
+PROVISION	STAR ANISE	KG																					
+DISPOSABLE ITEMS	STIRROR STICK WOODEN	PKT																					
+PROVISION	STRAWBERRY CAKE MIX	KG																					
+PROVISION	SUGAR	KG																					
+PROVISION	SUGAR BALL	PKT																					
+PROVISION	SUGAR SACHET	PKT																					
+CHEMICALS	SUMA TAB 10X100 GM	NOS																					
+CONFECTIONERY & BEVERAGES	SUNFEAST BOUNCE BISCUIT RS 10	NOS																					
+CONFECTIONERY & BEVERAGES	SUNFEAST BOURBON RS 40	PKT																					
+CONFECTIONERY & BEVERAGES	SUNFEAST BOURBON RS10	PKT																					
+CONFECTIONERY & BEVERAGES	SUNFEAST BOURBON RS25	PKT																					
+CONFECTIONERY & BEVERAGES	SUNFEAST VEDA MARI LIGHT RS 40	NOS																					
+PROVISION	TAMARIND	KG																					
+PROVISION	TEA BAG AVT	PKT																					
+PROVISION	TEA POWDER	KG																					
+PROVISION	TOMATO KETCHUP SACHET	PKT																					
+PROVISION	TUITY FRUITY GREEN	KG																					
+PROVISION	TUITY FRUITY RED	KG																					
+PROVISION	TURMERIC POWDER	KG																					
+CONFECTIONERY & BEVERAGES	TWIX RS 30	PKT																					
+CONFECTIONERY & BEVERAGES	TWIX RS 70	NOS																					
+CONFECTIONERY & BEVERAGES	UNIBIC BISCUITS @10	NOS																					
+PROVISION	VADA PARIPPU	KG																					
+CHEMICALS	VETO - GLASS CLEANER-PINTURA5 KG	CAN																					
+FEED PRODUCTS	VIDAVANCE VANILLA 1000 GM	NOS																					
+PROVISION	VINEGAR	BTL																					
+PROVISION	WHEAT BROKEN	KG																					
+PROVISION	YEAST	KG																					
